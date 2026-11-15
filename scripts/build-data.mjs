@@ -196,13 +196,23 @@ console.log("examples:", examples.length);
 
 // Lessons written for this project: grammar (data/grammar.txt) and
 // colloquial / everyday phrases (data/phrases.tsv).
-const grammar = fs.readFileSync("data/grammar.txt", "utf8").split(/\n\s*\n/).filter((b) => b.trim()).map((block) => {
+// grammar.txt: "## book | lesson | lesson title" starts a lesson of the
+// Giáo trình Hán ngữ (汉语教程) series; "# title | pattern" blocks are its points.
+const grammar = [];
+for (const block of fs.readFileSync("data/grammar.txt", "utf8").split(/\n\s*\n/).filter((b) => b.trim())) {
   const lines = block.trim().split("\n");
+  if (lines[0].startsWith("## ")) {
+    const [book, lesson, title] = lines[0].slice(3).split(" | ");
+    if (!title || lines.length !== 1) throw new Error("grammar.txt: bad lesson " + lines[0]);
+    grammar.push({ book: +book, lesson: +lesson, title, points: [] });
+    continue;
+  }
   const [title, pattern] = lines[0].replace(/^#\s*/, "").split(" | ");
   const examples = lines.slice(2).map((l) => l.split(" | "));
-  if (!title || !pattern || !lines[1] || examples.some((x) => x.length !== 3)) throw new Error("grammar.txt: bad block " + lines[0]);
-  return { title, pattern, note: lines[1], examples };
-});
+  if (!grammar.length || !title || !pattern || !lines[1] || examples.length < 2 || examples.some((x) => x.length !== 3)) throw new Error("grammar.txt: bad block " + lines[0]);
+  grammar.at(-1).points.push({ title, pattern, note: lines[1], examples });
+}
+if (grammar.some((l) => !l.points.length)) throw new Error("grammar.txt: lesson without points");
 const phrases = fs.readFileSync("data/phrases.tsv", "utf8").split("\n").filter(Boolean).map((l) => {
   const c = l.split("\t");
   if (c.length < 4) throw new Error("phrases.tsv: bad line " + l);
@@ -215,7 +225,7 @@ for (const c of phrases.filter((x) => x[0].startsWith("giao-tiep:"))) {
   (topics.find((t) => t.name === name) ?? topics[topics.push({ name, items: [] }) - 1]).items.push(c.slice(1));
 }
 fs.writeFileSync("public/data/learn.json", JSON.stringify({ grammar, spoken, topics }));
-console.log("learn:", grammar.length, "grammar points,", spoken.length, "spoken phrases,", topics.reduce((n, t) => n + t.items.length, 0), "everyday sentences");
+console.log("learn:", grammar.length, "lessons,", grammar.reduce((n, l) => n + l.points.length, 0), "grammar points,", spoken.length, "spoken phrases,", topics.reduce((n, t) => n + t.items.length, 0), "everyday sentences");
 
 // Every other dictionary word (not in the HSK lists), Vietnamese meanings.
 const extra = [];
