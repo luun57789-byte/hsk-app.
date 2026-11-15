@@ -7,6 +7,8 @@ const paths: Record<string, React.ReactNode> = {
   sound: <><path d="M4 10v4h3l5 4V6L7 10H4z" /><path d="M16 9a4 4 0 0 1 0 6" /><path d="M18.5 6.5a7.5 7.5 0 0 1 0 11" /></>,
   download: <><path d="M12 4v11" /><path d="M7.5 11L12 15.5 16.5 11" /><path d="M5 20h14" /></>,
   back: <path d="M15 5l-7 7 7 7" />,
+  book: <><path d="M4 5.5A2.5 2.5 0 0 1 6.5 3H20v15H6.5A2.5 2.5 0 0 0 4 20.5v-15z" /><path d="M4 20.5A2.5 2.5 0 0 0 6.5 21H20" /><path d="M9 8h7" /></>,
+  edit: <><path d="M4 20h4L19 9l-4-4L4 16v4z" /><path d="M13.5 6.5l4 4" /></>,
   image: <><rect x="3.5" y="5" width="17" height="14" rx="3" /><circle cx="9" cy="10" r="1.6" /><path d="M4.5 17l5-4.5 3.5 3 3-2.5 4 3.5" /></>,
 };
 export default function Icon({ name, size = 22 }: { name: keyof typeof paths | string; size?: number }) {

@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "npx serve out",
     "build-data": "node scripts/build-data.mjs",
-    "test": "node --test scripts/hw.test.mjs scripts/pron.test.mjs",
+    "test": "node --test --test-concurrency=1 scripts/hw.test.mjs scripts/pron.test.mjs scripts/hanviet.test.mjs scripts/annotate.test.mjs",
     "predev": "node scripts/copy-ocr.mjs",
     "prebuild": "node scripts/copy-ocr.mjs"
   },

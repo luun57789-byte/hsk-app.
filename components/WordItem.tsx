@@ -3,9 +3,11 @@ import Link from "next/link";
 import { gloss, speak, type Entry } from "@/lib/dict";
 import Pinyin from "./Pinyin";
 import Icon from "./Icon";
+import { useHanViet } from "./useHanViet";
 
 /** One word row: characters, tone-coloured pinyin, meaning, word type, HSK level, listen button. */
 export default function WordItem({ e, actions }: { e: Entry; actions?: React.ReactNode }) {
+  const hv = useHanViet(e);
   return (
     <div className="word-row">
       <Link href={`/word/?w=${encodeURIComponent(e.s)}`} className="word-main">
@@ -15,6 +17,7 @@ export default function WordItem({ e, actions }: { e: Entry; actions?: React.Rea
           <span className="mean">
             {gloss(e)}
             {e.pos && <span className={`tag tag-${e.pos === "động từ" ? "v" : e.pos === "danh từ" ? "n" : "o"}`}>{e.pos}</span>}
+            {hv && <span className="lvl">· {hv}</span>}
             {e.h3 > 0 && <span className="lvl">· HSK {e.h3 === 7 ? "7-9" : e.h3}</span>}
           </span>
         </span>

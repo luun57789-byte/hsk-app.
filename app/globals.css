@@ -89,7 +89,7 @@ button:disabled { opacity: 0.5; cursor: default; }
 nav.tabs { position: fixed; bottom: 0; left: 0; right: 0; background: var(--card-solid); border-top: 1px solid var(--line);
   display: flex; justify-content: center; z-index: 5; padding-bottom: env(safe-area-inset-bottom); }
 nav.tabs a { flex: 1; max-width: 200px; display: flex; flex-direction: column; align-items: center; gap: 2px;
-  padding: 9px 4px 8px; color: var(--muted); font-size: 0.75rem; font-weight: 600; }
+  padding: 9px 2px 8px; color: var(--muted); font-size: 0.68rem; font-weight: 600; white-space: nowrap; }
 nav.tabs a.on { color: var(--accent); }
 nav.tabs .logo { display: none; }
 @media (min-width: 760px) {
@@ -121,9 +121,28 @@ select { font: inherit; padding: 8px 12px; border-radius: 12px; border: 1.5px so
 :root { --veil: rgba(243, 239, 250, 0.55); }
 @media (prefers-color-scheme: dark) { :root { --veil: rgba(23, 21, 42, 0.6); } }
 .nav-btn { flex: 1; max-width: 200px; display: flex; flex-direction: column; align-items: center; gap: 2px; border: 0;
-  background: transparent; padding: 9px 4px 8px; color: var(--muted); font-size: 0.75rem; font-weight: 600; border-radius: 16px; }
+  background: transparent; padding: 9px 2px 8px; color: var(--muted); font-size: 0.68rem; white-space: nowrap; font-weight: 600; border-radius: 16px; }
 .popover { position: fixed; z-index: 10; left: 12px; right: 12px; bottom: 76px; max-width: 360px; background: var(--card-solid); }
 @media (min-width: 760px) {
   .nav-btn { flex: none; width: 60px; padding: 10px 2px 8px; font-size: 0.68rem; margin-top: auto; }
   .popover { left: 88px; right: auto; bottom: 16px; }
 }
+button.ghost.edit:hover { color: var(--accent); }
+.levels .muted { font-size: 0.8rem; margin-left: 4px; }
+button.plain { border: 0; background: transparent; padding: 0; color: inherit; font-weight: inherit; text-align: left; border-radius: 8px; }
+.chip-link { display: inline-flex; align-items: center; padding: 9px 14px; border-radius: 14px; border: 1.5px dashed var(--accent); font-weight: 600; background: var(--card-solid); }
+textarea { width: 100%; margin-top: 10px; padding: 12px 16px; font: inherit; border-radius: 14px; border: 1.5px solid var(--line);
+  background: var(--card-solid); color: var(--text); outline: none; resize: vertical; }
+textarea:focus { border-color: var(--accent); }
+.player { position: sticky; top: 8px; z-index: 3; background: var(--card-solid); margin-bottom: 12px; }
+.lyrics { padding: 10px 14px; }
+.lyric { padding: 10px 8px; border-radius: 14px; cursor: pointer; font-size: 1.25rem; line-height: 2.3; color: var(--muted); transition: background 0.2s; }
+.lyric.now { background: var(--accent-soft); color: var(--text); font-size: 1.5rem; }
+.lyric.past { opacity: 0.75; }
+.lyric ruby { margin: 0 1px; cursor: pointer; border-radius: 6px; }
+.lyric ruby:hover { background: var(--line); }
+.lyric rt { font-size: 0.55em; font-style: italic; color: var(--muted); font-family: inherit; }
+.lyric ruby.sung { color: var(--accent); font-weight: 700; }
+.lyric.now ruby.sung rt { color: var(--accent); }
+.word-pop { bottom: 84px; max-width: 420px; margin: 0 auto; right: 12px; }
+@media (min-width: 760px) { .word-pop { left: auto; right: 24px; bottom: 24px; width: 380px; } }

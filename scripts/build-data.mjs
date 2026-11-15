@@ -163,6 +163,27 @@ for (const ch of used) {
 }
 console.log("stroke files:", copied);
 
+// Hán Việt readings per traditional character and pinyin (MIT)
+// https://github.com/ph0ngp/hanviet-pinyin-wordlist
+const HV_SRC = "https://raw.githubusercontent.com/ph0ngp/hanviet-pinyin-wordlist/main/hanviet.csv";
+const hvCache = "scripts/.cache/hanviet.csv";
+if (!fs.existsSync(hvCache)) {
+  const r = await fetch(HV_SRC);
+  if (!r.ok) throw new Error("download failed " + r.status);
+  fs.writeFileSync(hvCache, Buffer.from(await r.arrayBuffer()));
+}
+const hv = {}; // char -> "zhong1=trung;zhong4=trúng" ("*" = any pinyin)
+for (const line of fs.readFileSync(hvCache, "utf8").split("\n").slice(1)) {
+  const m = /^(.),"?\[(.*)\]"?,(.+)$/.exec(line.trim());
+  if (!m) continue;
+  const first = /'([^']+)'/.exec(m[2]);
+  if (!first) continue;
+  const key = m[3].toLowerCase().replace("u:", "v").replace("ü", "v");
+  hv[m[1]] = (hv[m[1]] ? hv[m[1]] + ";" : "") + key + "=" + first[1];
+}
+fs.writeFileSync("public/data/hanviet.json", JSON.stringify(hv));
+console.log("hanviet:", Object.keys(hv).length, "characters");
+
 // Example sentences written for this project: data/examples.tsv
 // columns: sentence, pinyin, Vietnamese translation
 const examples = fs.readFileSync("data/examples.tsv", "utf8").split("\n").filter(Boolean).map((l) => {
@@ -172,6 +193,29 @@ const examples = fs.readFileSync("data/examples.tsv", "utf8").split("\n").filter
 });
 fs.writeFileSync("public/data/examples.json", JSON.stringify(examples));
 console.log("examples:", examples.length);
+
+// Lessons written for this project: grammar (data/grammar.txt) and
+// colloquial / everyday phrases (data/phrases.tsv).
+const grammar = fs.readFileSync("data/grammar.txt", "utf8").split(/\n\s*\n/).filter((b) => b.trim()).map((block) => {
+  const lines = block.trim().split("\n");
+  const [title, pattern] = lines[0].replace(/^#\s*/, "").split(" | ");
+  const examples = lines.slice(2).map((l) => l.split(" | "));
+  if (!title || !pattern || !lines[1] || examples.some((x) => x.length !== 3)) throw new Error("grammar.txt: bad block " + lines[0]);
+  return { title, pattern, note: lines[1], examples };
+});
+const phrases = fs.readFileSync("data/phrases.tsv", "utf8").split("\n").filter(Boolean).map((l) => {
+  const c = l.split("\t");
+  if (c.length < 4) throw new Error("phrases.tsv: bad line " + l);
+  return c;
+});
+const spoken = phrases.filter((c) => c[0] === "khau-ngu").map((c) => c.slice(1));
+const topics = [];
+for (const c of phrases.filter((x) => x[0].startsWith("giao-tiep:"))) {
+  const name = c[0].split(":")[1];
+  (topics.find((t) => t.name === name) ?? topics[topics.push({ name, items: [] }) - 1]).items.push(c.slice(1));
+}
+fs.writeFileSync("public/data/learn.json", JSON.stringify({ grammar, spoken, topics }));
+console.log("learn:", grammar.length, "grammar points,", spoken.length, "spoken phrases,", topics.reduce((n, t) => n + t.items.length, 0), "everyday sentences");
 
 // Every other dictionary word (not in the HSK lists), Vietnamese meanings.
 const extra = [];

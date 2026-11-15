@@ -1,7 +1,7 @@
 "use client";
 import { useEffect, useMemo, useState } from "react";
 import { loadDict, type Entry } from "@/lib/dict";
-import { addCards, loadDeck, type Deck } from "@/lib/store";
+import { activeList, addCards, loadDeck, type Deck } from "@/lib/store";
 import WordItem from "@/components/WordItem";
 
 const L3 = [1, 2, 3, 4, 5, 6, 7];
@@ -13,7 +13,8 @@ export default function Hsk() {
   const [lv, setLv] = useState(1);
   const [deck, setDeck] = useState<Deck>({});
   const [shown, setShown] = useState(60);
-  useEffect(() => { loadDict().then(setList); setDeck(loadDeck()); }, []);
+  const [deckName, setDeckName] = useState("");
+  useEffect(() => { loadDict().then(setList); setDeck(loadDeck()); setDeckName(activeList().name); }, []);
   const words = useMemo(
     () => (list ? list.filter((e) => (std === 3 ? e.h3 : e.h2) === lv) : []),
     [list, std, lv],
@@ -62,6 +63,7 @@ export default function Hsk() {
               >
                 + Thêm 20 từ tiếp theo vào bộ thẻ
               </button>
+              {deckName && <span className="muted">Thêm vào: {deckName}</span>}
             </div>
           </div>
           <div className="list card">{words.slice(0, shown).map((e) => <WordItem key={e.s} e={e} />)}</div>
