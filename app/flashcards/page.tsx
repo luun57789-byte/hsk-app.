@@ -1,7 +1,7 @@
 "use client";
 import { useEffect, useState } from "react";
 import Link from "next/link";
-import { loadDict, speak, type Entry } from "@/lib/dict";
+import { gloss, loadDict, loadExtra, speak, type Entry } from "@/lib/dict";
 import { dueWords, loadDeck, review, Rating, type Deck } from "@/lib/store";
 
 export default function Flashcards() {
@@ -10,7 +10,12 @@ export default function Flashcards() {
   const [show, setShow] = useState(false);
   useEffect(() => {
     setDeck(loadDeck());
-    loadDict().then((l) => setDict(new Map(l.map((e) => [e.s, e]))));
+    loadDict().then((l) => {
+      setDict(new Map(l.map((e) => [e.s, e])));
+      const d = loadDeck();
+      if (Object.keys(d).some((w) => !l.some((e) => e.s === w)))
+        loadExtra().then((x) => setDict(new Map([...l, ...x].map((e) => [e.s, e])))).catch(() => {});
+    });
   }, []);
   if (!deck) return <p className="muted">Đang tải…</p>;
   const total = Object.keys(deck).length;
@@ -39,7 +44,7 @@ export default function Flashcards() {
           ) : (
             <>
               <div style={{ fontSize: "1.2rem", color: "var(--accent)" }}>{e?.p}</div>
-              <p>{e?.vi || e?.m.slice(0, 3).join("; ")}</p>
+              <p>{e ? gloss(e) : ""}</p>
               <p><Link href={`/word/?w=${encodeURIComponent(w)}`}>Xem chi tiết và thứ tự nét</Link></p>
               <div className="grades">
                 <button onClick={() => grade(Rating.Again)}>Quên</button>

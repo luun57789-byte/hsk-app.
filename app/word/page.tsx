@@ -2,22 +2,31 @@
 import { Suspense, useEffect, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import Link from "next/link";
-import { loadDict, levelLabel, speak, type Entry } from "@/lib/dict";
+import { examplesFor, type Example, getWord, loadDict, loadExtra, levelLabel, speak, type Entry } from "@/lib/dict";
 import { addCards, loadDeck, removeCard } from "@/lib/store";
 import StrokeOrder from "@/components/StrokeOrder";
 import WordItem from "@/components/WordItem";
+import Pronounce from "@/components/Pronounce";
 
 function Word() {
   const w = useSearchParams().get("w") || "";
   const [e, setE] = useState<Entry | null | undefined>(undefined);
   const [related, setRelated] = useState<Entry[]>([]);
   const [saved, setSaved] = useState(false);
+  const [examples, setExamples] = useState<Example[]>([]);
   useEffect(() => {
-    loadDict().then((list) => {
-      setE(list.find((x) => x.s === w) ?? null);
-      setRelated(list.filter((x) => x.s !== w && x.s.includes(w)).slice(0, 12));
+    let live = true;
+    setE(undefined);
+    getWord(w).then((x) => live && setE(x ?? null));
+    setExamples([]);
+    examplesFor(w).then((x) => live && setExamples(x));
+    Promise.all([loadDict(), loadExtra().catch(() => [] as Entry[])]).then(([a, b]) => {
+      if (!live) return;
+      const rel = a.filter((x) => x.s !== w && x.s.includes(w)).slice(0, 12);
+      setRelated(rel.length >= 12 ? rel : [...rel, ...b.filter((x) => x.s !== w && x.s.includes(w)).slice(0, 12 - rel.length)]);
     });
     setSaved(!!loadDeck()[w]);
+    return () => { live = false; };
   }, [w]);
   if (e === undefined) return <p className="muted">Đang tải…</p>;
   const chars = [...w].filter((c) => /[㐀-鿿]/.test(c));
@@ -35,10 +44,10 @@ function Word() {
             </div>
             <div>{levelLabel(e).map((l) => <span key={l} className="badge">{l}</span>)}</div>
             {e.vi && <p style={{ fontSize: "1.1rem", margin: "10px 0 4px" }}>{e.vi}</p>}
-            <ol style={{ margin: "8px 0", paddingLeft: 20 }} className={e.vi ? "muted" : ""}>
+            <ol style={{ margin: "8px 0", paddingLeft: 20 }}>
               {e.m.map((m, i) => <li key={i}>{m}</li>)}
             </ol>
-            {!e.vi && <div className="muted">Nghĩa tiếng Việt cho từ này đang được biên soạn.</div>}
+            {e.en.length > 0 && <div className="muted">Tiếng Anh: {e.en.join("; ")}</div>}
             <div className="row" style={{ marginTop: 10 }}>
               {saved ? (
                 <button onClick={() => { removeCard(w); setSaved(false); }}>✓ Đã lưu vào flashcard (bỏ lưu)</button>
@@ -51,8 +60,27 @@ function Word() {
           <p className="muted">Từ này chưa có trong từ điển. Bạn vẫn xem được thứ tự nét bên dưới.</p>
         )}
       </div>
+      {examples.length > 0 && (
+        <>
+          <h2>Câu ví dụ</h2>
+          <div className="list">
+            {examples.map((x) => (
+              <div key={x[0]} className="card">
+                <div className="row" style={{ justifyContent: "space-between", flexWrap: "nowrap" }}>
+                  <span className="han" style={{ fontSize: "1.2rem" }}>{x[0]}</span>
+                  <button onClick={() => speak(x[0])} aria-label="Nghe câu ví dụ">🔊</button>
+                </div>
+                <div style={{ color: "var(--accent)" }}>{x[1]}</div>
+                <div className="muted">{x[2]}</div>
+              </div>
+            ))}
+          </div>
+        </>
+      )}
       {chars.length > 0 && (
         <>
+          <h2>Luyện phát âm</h2>
+          <div className="card"><Pronounce word={w} /></div>
           <h2>Thứ tự nét</h2>
           <div className="strokes">{chars.map((c, i) => <div key={c + i}><StrokeOrder ch={c} /></div>)}</div>
         </>

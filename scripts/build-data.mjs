@@ -17,22 +17,60 @@ if (!fs.existsSync(cache)) {
   fs.writeFileSync(cache, Buffer.from(await r.arrayBuffer()));
 }
 const raw = JSON.parse(fs.readFileSync(cache, "utf8"));
+// CVDICT: Chinese-Vietnamese dictionary translated from CC-CEDICT (CC BY-SA 4.0)
+// https://github.com/ph0ngp/CVDICT
+const CV_SRC = "https://raw.githubusercontent.com/ph0ngp/CVDICT/main/CVDICT.u8";
+const cvCache = "scripts/.cache/CVDICT.u8";
+if (!fs.existsSync(cvCache)) {
+  const r = await fetch(CV_SRC);
+  if (!r.ok) throw new Error("download failed " + r.status);
+  fs.writeFileSync(cvCache, Buffer.from(await r.arrayBuffer()));
+}
+const hanOnly = /^[\u3400-\u9fff]+$/;
+const skipVi = /^(họ |biến thể|dạng cũ|dạng cổ|xem |dùng trong |được dùng trong |biến âm|dị thể)/i;
+const cv = new Map(); // simplified -> [{t, numeric, meanings, bad}]
+const readings = {};
+for (const line of fs.readFileSync(cvCache, "utf8").split("\n")) {
+  const m = /^(\S+) (\S+) \[([^\]]+)\] \/(.*)\/\s*$/.exec(line);
+  if (!m || !hanOnly.test(m[2])) continue;
+  const [, t, s2, numeric, defs] = m;
+  if ([...s2].length === 1) {
+    const r = numeric.toLowerCase().replace("u:", "v");
+    if (/^[a-z]+[1-5]$/.test(r)) (readings[s2] ??= new Set()).add(r);
+  }
+  const meanings = defs.split("/").filter((d) => d && !/^LT:/.test(d));
+  if (!meanings.length) continue;
+  const bad = skipVi.test(meanings[0]) || /^[A-Z]/.test(numeric);
+  (cv.get(s2) ?? cv.set(s2, []).get(s2)).push({ t, numeric, meanings, bad });
+}
+const norm = (n) => n.toLowerCase().replace(/[\s:]/g, "").replace(/5/g, "");
+const pickCv = (s2, numeric) => {
+  const list = cv.get(s2);
+  if (!list) return null;
+  return (
+    (numeric && list.find((x) => norm(x.numeric) === norm(numeric))) ||
+    list.reduce((a, b) => ((b.bad ? -100 : 0) + b.meanings.length > (a.bad ? -100 : 0) + a.meanings.length ? b : a))
+  );
+};
+
 const lvl = (levels, prefix) => {
   const l = levels.find((x) => x.startsWith(prefix + "-"));
   return l ? Number(l.split("-")[1]) : 0;
 };
-// entry: [simplified, traditional, pinyin, meanings[], hsk3 level (7 = 7-9), hsk2 level, frequency]
+// entry: [simplified, traditional, pinyin, Vietnamese meanings[], hsk3 level (7 = 7-9), hsk2 level, frequency, English meanings[]]
 const dict = raw
   .map((e) => {
     const f = bestForm(e.forms);
+    const v = pickCv(e.simplified, f.transcriptions.numeric);
     return [
       e.simplified,
       f.traditional,
       f.transcriptions.pinyin,
-      f.meanings.slice(0, 5),
+      v ? v.meanings.slice(0, 6) : [],
       lvl(e.level, "new"),
       lvl(e.level, "old"),
       e.frequency,
+      f.meanings.slice(0, 3),
     ];
   })
   .sort((a, b) => a[6] - b[6]);
@@ -123,3 +161,49 @@ for (const ch of used) {
   if (fs.existsSync(src)) { fs.copyFileSync(src, `public/hanzi/${ch}.json`); copied++; }
 }
 console.log("stroke files:", copied);
+
+// Example sentences written for this project: data/examples.tsv
+// columns: sentence, pinyin, Vietnamese translation
+const examples = fs.readFileSync("data/examples.tsv", "utf8").split("\n").filter(Boolean).map((l) => {
+  const cols = l.split("\t");
+  if (cols.length !== 3) throw new Error("examples.tsv: bad line " + l);
+  return cols;
+});
+fs.writeFileSync("public/data/examples.json", JSON.stringify(examples));
+console.log("examples:", examples.length);
+
+// Every other dictionary word (not in the HSK lists), Vietnamese meanings.
+const extra = [];
+for (const [s2, list] of cv) {
+  if (known.has(s2)) continue;
+  const v = pickCv(s2);
+  extra.push([s2, v.t, toneMarks(v.numeric), v.meanings.slice(0, 4)]);
+}
+fs.writeFileSync("public/data/cedict.json", JSON.stringify(extra));
+fs.writeFileSync(
+  "public/data/chars.json",
+  JSON.stringify(Object.fromEntries(Object.entries(readings).map(([c, r]) => [c, [...r].join(" ")]))),
+);
+console.log("extra:", extra.length, "words; readings for", Object.keys(readings).length, "characters");
+console.log("HSK words without Vietnamese:", dict.filter((r) => !r[3].length).length);
+
+// "ni3 hao3" -> "nǐ hǎo"
+function toneMarks(numeric) {
+  const marks = { a: "āáǎàa", e: "ēéěèe", i: "īíǐìi", o: "ōóǒòo", u: "ūúǔùu", ü: "ǖǘǚǜü" };
+  return numeric
+    .split(" ")
+    .map((syl) => {
+      const m = /^([A-Za-z:]+)([1-5])$/.exec(syl);
+      if (!m) return syl;
+      let s = m[1].replace(/u:/g, "ü").replace(/U:/g, "Ü");
+      const tone = Number(m[2]) - 1;
+      const lower = s.toLowerCase();
+      let idx = lower.search(/[ae]/);
+      if (idx < 0) idx = lower.indexOf("ou");
+      if (idx < 0) for (let i = lower.length - 1; i >= 0; i--) if ("iouü".includes(lower[i])) { idx = i; break; }
+      if (idx < 0) return s;
+      const v = marks[lower[idx]][tone];
+      return s.slice(0, idx) + (s[idx] === lower[idx] ? v : v.toUpperCase()) + s.slice(idx + 1);
+    })
+    .join(" ");
+}

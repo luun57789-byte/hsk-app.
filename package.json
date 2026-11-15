@@ -7,16 +7,20 @@
     "build": "next build",
     "start": "npx serve out",
     "build-data": "node scripts/build-data.mjs",
-    "test": "node --test scripts/hw.test.mjs"
+    "test": "node --test scripts/hw.test.mjs scripts/pron.test.mjs",
+    "predev": "node scripts/copy-ocr.mjs",
+    "prebuild": "node scripts/copy-ocr.mjs"
   },
   "dependencies": {
     "hanzi-writer": "^3.7.2",
     "next": "^15.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "tesseract.js": "^7.0.0",
     "ts-fsrs": "^4.5.0"
   },
   "devDependencies": {
+    "@tesseract.js-data/chi_sim": "^1.0.0",
     "@types/node": "^22.0.0",
     "@types/react": "^19.0.0",
     "@types/react-dom": "^19.0.0",
