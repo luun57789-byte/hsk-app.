@@ -88,12 +88,12 @@ export default function Practice() {
               {[1, 2, 3, 4, 5, 6, 7].map((l) => (
                 <option key={l} value={`h${l}`}>HSK 3.0 cấp {l === 7 ? "7-9" : l}</option>
               ))}
-              <option value="deck">Flashcard của tôi</option>
+              <option value="deck">Bộ thẻ của tôi</option>
             </select>
           </label>
           <div className="muted" style={{ margin: "6px 0 12px" }}>{pool.length} từ, mỗi lượt {ROUND} câu.</div>
           {pool.length < 4 ? (
-            <div className="muted">Cần ít nhất 4 từ để luyện. Hãy thêm từ vào flashcard hoặc chọn một cấp HSK.</div>
+            <div className="muted">Cần ít nhất 4 từ để luyện. Hãy thêm từ vào bộ thẻ hoặc chọn một cấp HSK.</div>
           ) : (
             <div className="row">
               <button className="primary" onClick={() => start("listen")}>🎧 Luyện nghe</button>

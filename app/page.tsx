@@ -43,7 +43,7 @@ export default function Home() {
         </p>
       )}
       {list && q && results.length === 0 && <p className="muted">Không tìm thấy từ nào.</p>}
-      <div className="list">{results.map((e) => <WordItem key={e.s} e={e} />)}</div>
+      {results.length > 0 && <div className="list card">{results.map((e) => <WordItem key={e.s} e={e} />)}</div>}
     </>
   );
 }

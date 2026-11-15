@@ -57,7 +57,7 @@ const lvl = (levels, prefix) => {
   const l = levels.find((x) => x.startsWith(prefix + "-"));
   return l ? Number(l.split("-")[1]) : 0;
 };
-// entry: [simplified, traditional, pinyin, Vietnamese meanings[], hsk3 level (7 = 7-9), hsk2 level, frequency, English meanings[]]
+// entry: [simplified, traditional, pinyin, Vietnamese meanings[], hsk3 level (7 = 7-9), hsk2 level, frequency, English meanings[], part-of-speech code]
 const dict = raw
   .map((e) => {
     const f = bestForm(e.forms);
@@ -71,6 +71,7 @@ const dict = raw
       lvl(e.level, "old"),
       e.frequency,
       f.meanings.slice(0, 3),
+      e.pos.filter((x) => !["g", "k", "h"].includes(x))[0] || "",
     ];
   })
   .sort((a, b) => a[6] - b[6]);

@@ -3,7 +3,7 @@
   "short_name": "HSK",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#f6f4ef",
-  "theme_color": "#0f766e",
+  "background_color": "#f3effa",
+  "theme_color": "#5b4bc4",
   "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }]
 }

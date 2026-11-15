@@ -8,6 +8,7 @@ export type Entry = {
   h3: number; // HSK 3.0 level, 7 = 7-9, 0 = none
   h2: number; // HSK 2.0 level, 0 = none
   f: number; // frequency rank
+  pos: string; // word type in Vietnamese, "" when unknown
   key: string; // pinyin without tones/spaces, for search
   pm: string; // meanings without diacritics, for search
 };
@@ -26,7 +27,16 @@ let cache: Promise<Entry[]> | null = null;
 let extraCache: Promise<Entry[]> | null = null;
 let byWord: Map<string, Entry> | null = null;
 
+const POS: Record<string, string> = {
+  v: "động từ", vn: "động từ", n: "danh từ", nr: "tên riêng", ns: "địa danh", nz: "tên riêng", nt: "danh từ",
+  a: "tính từ", an: "tính từ", ad: "tính từ", z: "tính từ", b: "tính từ", d: "phó từ", r: "đại từ", p: "giới từ",
+  c: "liên từ", cc: "liên từ", u: "trợ từ", y: "trợ từ", m: "số từ", q: "lượng từ", qv: "lượng từ", qt: "lượng từ",
+  mq: "lượng từ", t: "từ chỉ thời gian", tg: "từ chỉ thời gian", f: "phương vị từ", s: "từ chỉ nơi chốn",
+  e: "thán từ", o: "từ tượng thanh", l: "cụm từ",
+};
+
 const make = (r: any[], vi?: string): Entry => ({
+  pos: POS[r[8]] || "",
   s: r[0], t: r[1], p: r[2], m: r[3], h3: r[4] || 0, h2: r[5] || 0, f: r[6] || 0, en: r[7] || [],
   vi,
   key: plain(r[2]).replace(/[^a-z]/g, ""),
