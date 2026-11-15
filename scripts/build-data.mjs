@@ -163,6 +163,27 @@ for (const ch of used) {
 }
 console.log("stroke files:", copied);
 
+// Hán Việt readings per traditional character and pinyin (MIT)
+// https://github.com/ph0ngp/hanviet-pinyin-wordlist
+const HV_SRC = "https://raw.githubusercontent.com/ph0ngp/hanviet-pinyin-wordlist/main/hanviet.csv";
+const hvCache = "scripts/.cache/hanviet.csv";
+if (!fs.existsSync(hvCache)) {
+  const r = await fetch(HV_SRC);
+  if (!r.ok) throw new Error("download failed " + r.status);
+  fs.writeFileSync(hvCache, Buffer.from(await r.arrayBuffer()));
+}
+const hv = {}; // char -> "zhong1=trung;zhong4=trúng" ("*" = any pinyin)
+for (const line of fs.readFileSync(hvCache, "utf8").split("\n").slice(1)) {
+  const m = /^(.),"?\[(.*)\]"?,(.+)$/.exec(line.trim());
+  if (!m) continue;
+  const first = /'([^']+)'/.exec(m[2]);
+  if (!first) continue;
+  const key = m[3].toLowerCase().replace("u:", "v").replace("ü", "v");
+  hv[m[1]] = (hv[m[1]] ? hv[m[1]] + ";" : "") + key + "=" + first[1];
+}
+fs.writeFileSync("public/data/hanviet.json", JSON.stringify(hv));
+console.log("hanviet:", Object.keys(hv).length, "characters");
+
 // Example sentences written for this project: data/examples.tsv
 // columns: sentence, pinyin, Vietnamese translation
 const examples = fs.readFileSync("data/examples.tsv", "utf8").split("\n").filter(Boolean).map((l) => {

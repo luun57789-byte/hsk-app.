@@ -10,7 +10,9 @@ Web học tiếng Trung theo HSK 3.0 và HSK 2.0, chạy trên máy tính và đ
 - Chấm điểm phát âm bằng micro (cần Chrome, Edge hoặc Safari và có mạng).
 - Luyện tập: luyện nghe chọn đáp án và luyện phát âm theo cấp HSK hoặc theo flashcard của bạn.
 - Lộ trình HSK 3.0 (cấp 1 đến 7-9) và HSK 2.0 (cấp 1 đến 6) với tiến độ học.
-- Flashcard lặp lại ngắt quãng (thuật toán FSRS), lưu trên trình duyệt.
+- Nhiều bộ thẻ có tên riêng: thêm, sửa, xóa từ, xuất TXT và Excel, ôn tập lặp lại ngắt quãng (thuật toán FSRS), lưu trên trình duyệt.
+- Âm Hán Việt cho từng từ, khớp theo pinyin.
+- Tự chọn ảnh nền riêng (chỉ lưu trên máy của bạn).
 
 Nghĩa tiếng Việt lấy từ CVDICT (dịch máy có rà soát, có thể còn sót lỗi). 506 từ HSK 3.0 cấp 1 có thêm nghĩa ngắn viết tay. Câu ví dụ hiện có 136 câu tự soạn cho từ vựng cấp 1.
 
@@ -30,6 +32,7 @@ npm run build      # tạo bản web tĩnh trong thư mục out/
 ## Nguồn và giấy phép dữ liệu
 
 - Nghĩa tiếng Việt: [CVDICT](https://github.com/ph0ngp/CVDICT) của Phong Phan (CC BY-SA 4.0), dịch từ CC-CEDICT.
+- Âm Hán Việt: [hanviet-pinyin-wordlist](https://github.com/ph0ngp/hanviet-pinyin-wordlist) của Phong Phan (MIT).
 - Danh sách từ HSK: [complete-hsk-vocabulary](https://github.com/drkameleon/complete-hsk-vocabulary) (MIT), nghĩa tiếng Anh lấy từ [CC-CEDICT](https://www.mdbg.net/chinese/dictionary?page=cc-cedict) (CC BY-SA 4.0).
 - Dữ liệu nét chữ: [Make Me a Hanzi](https://github.com/skishore/makemeahanzi) qua [hanzi-writer-data](https://github.com/chanind/hanzi-writer-data), theo Arphic Public License (xem `licenses/ARPHICPL.TXT`).
 - Thư viện: [Hanzi Writer](https://hanziwriter.org) (MIT), [ts-fsrs](https://github.com/open-spaced-repetition/ts-fsrs) (MIT), [Tesseract.js](https://github.com/naptha/tesseract.js) (Apache-2.0) cho nhận dạng chữ trong ảnh.

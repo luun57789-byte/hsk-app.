@@ -3,7 +3,8 @@ import { Suspense, useEffect, useState } from "react";
 import { useSearchParams } from "next/navigation";
 import Link from "next/link";
 import { examplesFor, type Example, getWord, loadDict, loadExtra, levelLabel, speak, type Entry } from "@/lib/dict";
-import { addCards, loadDeck, removeCard } from "@/lib/store";
+import { activeId, addCards, inAnyList, loadLists, removeCard, setActive, type WordList } from "@/lib/store";
+import { useHanViet } from "@/components/useHanViet";
 import StrokeOrder from "@/components/StrokeOrder";
 import WordItem from "@/components/WordItem";
 import Pronounce from "@/components/Pronounce";
@@ -16,6 +17,9 @@ function Word() {
   const [related, setRelated] = useState<Entry[]>([]);
   const [saved, setSaved] = useState(false);
   const [examples, setExamples] = useState<Example[]>([]);
+  const [lists, setLists] = useState<WordList[]>([]);
+  const [target, setTarget] = useState("");
+  const hv = useHanViet(e || null);
   useEffect(() => {
     let live = true;
     setE(undefined);
@@ -27,7 +31,9 @@ function Word() {
       const rel = a.filter((x) => x.s !== w && x.s.includes(w)).slice(0, 12);
       setRelated(rel.length >= 12 ? rel : [...rel, ...b.filter((x) => x.s !== w && x.s.includes(w)).slice(0, 12 - rel.length)]);
     });
-    setSaved(!!loadDeck()[w]);
+    setSaved(inAnyList(w));
+    setLists(loadLists());
+    setTarget(activeId());
     return () => { live = false; };
   }, [w]);
   if (e === undefined) return <p className="muted">Đang tải…</p>;
@@ -45,6 +51,7 @@ function Word() {
               <button onClick={() => speak(w)} aria-label="Nghe phát âm"><Icon name="sound" size={16} /> Nghe</button>
             </div>
             <div>{levelLabel(e).map((l) => <span key={l} className="badge">{l}</span>)}{e.pos && <span className="badge">{e.pos}</span>}</div>
+            {hv && <div className="muted" style={{ marginTop: 6 }}>Hán Việt: <strong>{hv}</strong></div>}
             {e.vi && <p style={{ fontSize: "1.1rem", margin: "10px 0 4px" }}>{e.vi}</p>}
             <ol style={{ margin: "8px 0", paddingLeft: 20 }}>
               {e.m.map((m, i) => <li key={i}>{m}</li>)}
@@ -54,7 +61,14 @@ function Word() {
               {saved ? (
                 <button onClick={() => { removeCard(w); setSaved(false); }}>✓ Đã lưu vào bộ thẻ (bỏ lưu)</button>
               ) : (
-                <button className="primary" onClick={() => { addCards([w]); setSaved(true); }}>+ Lưu vào bộ thẻ</button>
+                <>
+                  <button className="primary" onClick={() => { setActive(target); addCards([w], target); setSaved(true); }}>+ Lưu vào bộ thẻ</button>
+                  {lists.length > 1 && (
+                    <select value={target} onChange={(ev) => setTarget(ev.target.value)} aria-label="Chọn bộ thẻ">
+                      {lists.map((l) => <option key={l.id} value={l.id}>{l.name}</option>)}
+                    </select>
+                  )}
+                </>
               )}
             </div>
           </>

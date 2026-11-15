@@ -11,6 +11,7 @@ export type Entry = {
   pos: string; // word type in Vietnamese, "" when unknown
   key: string; // pinyin without tones/spaces, for search
   pm: string; // meanings without diacritics, for search
+  o?: { p: string; vi?: string }; // dictionary values, kept while the learner's own note replaces them
 };
 
 export const BASE = process.env.NEXT_PUBLIC_BASE_PATH || "";
@@ -55,6 +56,7 @@ export function loadDict(): Promise<Entry[]> {
     ]).then(([rows, vi]: [any[], Record<string, string>]) => {
       const list = rows.map((r) => make(r, vi[r[0]]));
       byWord = new Map(list.map((e) => [e.s, e]));
+      applyNotes(storedNotes());
       return list;
     });
   }
@@ -70,6 +72,7 @@ export function loadExtra(): Promise<Entry[]> {
         .then((rows: any[]) => {
           const list = rows.map((r, i) => make([r[0], r[1], r[2], r[3], 0, 0, 100000 + i]));
           for (const e of list) byWord!.set(e.s, e);
+          applyNotes(storedNotes());
           return list;
         }),
     );
@@ -83,6 +86,22 @@ export async function getWord(w: string): Promise<Entry | undefined> {
   await loadExtra().catch(() => {});
   return byWord!.get(w);
 }
+
+/** Show the learner's own pinyin/meaning (see lib/store notes) in place of the dictionary's. */
+export function applyNotes(notes: Record<string, { p?: string; vi?: string }>) {
+  if (!byWord) return;
+  for (const e of byWord.values()) {
+    const n = notes[e.s];
+    if (!n && !e.o) continue;
+    if (!e.o) e.o = { p: e.p, vi: e.vi };
+    e.p = n?.p || e.o.p;
+    e.vi = n?.vi || e.o.vi;
+    if (!n) delete e.o;
+  }
+}
+const storedNotes = () => {
+  try { return JSON.parse(localStorage.getItem("hsk-notes-v1") || "{}"); } catch { return {}; }
+};
 
 /** Short meaning for lists and quizzes. */
 export const gloss = (e: Entry) => e.vi || e.m.slice(0, 3).join("; ") || e.en.slice(0, 3).join("; ");

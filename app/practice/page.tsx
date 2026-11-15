@@ -41,7 +41,7 @@ export default function Practice() {
     if (!list) return [];
     if (source === "deck") {
       const d = loadDeck();
-      return list.filter((e) => d[e.s]);
+      return list.filter((e) => d[e.s]); // words from every deck
     }
     const lv = Number(source.slice(1));
     return list.filter((e) => e.h3 === lv);
@@ -88,7 +88,7 @@ export default function Practice() {
               {[1, 2, 3, 4, 5, 6, 7].map((l) => (
                 <option key={l} value={`h${l}`}>HSK 3.0 cấp {l === 7 ? "7-9" : l}</option>
               ))}
-              <option value="deck">Bộ thẻ của tôi</option>
+              <option value="deck">Tất cả bộ thẻ của tôi</option>
             </select>
           </label>
           <div className="muted" style={{ margin: "6px 0 12px" }}>{pool.length} từ, mỗi lượt {ROUND} câu.</div>

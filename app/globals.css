@@ -127,3 +127,5 @@ select { font: inherit; padding: 8px 12px; border-radius: 12px; border: 1.5px so
   .nav-btn { flex: none; width: 60px; padding: 10px 2px 8px; font-size: 0.68rem; margin-top: auto; }
   .popover { left: 88px; right: auto; bottom: 16px; }
 }
+button.ghost.edit:hover { color: var(--accent); }
+.levels .muted { font-size: 0.8rem; margin-left: 4px; }
