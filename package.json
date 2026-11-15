@@ -1,0 +1,26 @@
+{
+  "name": "hsk-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "npx serve out",
+    "build-data": "node scripts/build-data.mjs",
+    "test": "node --test scripts/hw.test.mjs"
+  },
+  "dependencies": {
+    "hanzi-writer": "^3.7.2",
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "ts-fsrs": "^4.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "hanzi-writer-data": "^2.0.1",
+    "typescript": "^5.6.0"
+  }
+}
