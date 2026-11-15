@@ -6,8 +6,9 @@ import { BASE } from "@/lib/dict";
 
 const tabs = [
   ["/", "Tra từ"],
-  ["/hsk/", "Lộ trình HSK"],
+  ["/hsk/", "Lộ trình"],
   ["/flashcards/", "Flashcard"],
+  ["/practice/", "Luyện tập"],
 ];
 export default function Tabs() {
   const path = usePathname();

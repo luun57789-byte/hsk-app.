@@ -1,5 +1,5 @@
 // Offline support: network first for pages, cache first for dictionary data.
-const CACHE = "hsk-v1";
+const CACHE = "hsk-v2";
 self.addEventListener("install", () => self.skipWaiting());
 self.addEventListener("activate", (e) => {
   e.waitUntil(
@@ -11,7 +11,7 @@ self.addEventListener("fetch", (e) => {
   const req = e.request;
   if (req.method !== "GET") return;
   const url = new URL(req.url);
-  const isData = url.pathname.includes("/data/") || url.pathname.includes("/hanzi/") || url.hostname === "cdn.jsdelivr.net";
+  const isData = url.pathname.includes("/data/") || url.pathname.includes("/hanzi/") || url.pathname.includes("/ocr/") || url.hostname === "cdn.jsdelivr.net";
   if (url.origin !== location.origin && !isData) return;
   const put = (res) => {
     if (res.ok) caches.open(CACHE).then((c) => c.put(req, res.clone()));

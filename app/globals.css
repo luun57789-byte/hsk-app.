@@ -49,3 +49,11 @@ nav.tabs a.on { color: var(--accent); font-weight: 600; }
 .grades { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; margin-top: 16px; }
 .bar { height: 8px; border-radius: 4px; background: var(--line); overflow: hidden; }
 .bar > i { display: block; height: 100%; background: var(--accent); }
+.mark-ok { color: var(--accent); }
+.mark-tone { color: var(--warn); }
+.mark-no { color: #dc2626; }
+.opts { display: grid; gap: 8px; margin-top: 12px; }
+.opts button { text-align: left; padding: 12px; }
+.opts button.right { border-color: var(--accent); background: var(--accent-soft); }
+.opts button.wrong { border-color: #dc2626; }
+select { font: inherit; padding: 8px; border-radius: 10px; border: 1px solid var(--line); background: var(--card); color: var(--text); }
