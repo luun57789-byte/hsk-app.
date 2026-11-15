@@ -19,9 +19,9 @@ export default function StrokeOrder({ ch }: { ch: string }) {
     const dark = window.matchMedia("(prefers-color-scheme: dark)").matches;
     writer.current = HanziWriter.create(el, ch, {
       width: 150, height: 150, padding: 8, showOutline: true,
-      strokeColor: dark ? "#e8eef0" : "#1e2a2f",
-      outlineColor: dark ? "#3a474d" : "#d9d5cc",
-      radicalColor: dark ? "#2dd4bf" : "#0f766e",
+      strokeColor: dark ? "#ece9f8" : "#2a2540",
+      outlineColor: dark ? "#3d3766" : "#ddd6f3",
+      radicalColor: dark ? "#b3a6ff" : "#5b4bc4",
       drawingColor: dark ? "#fbbf24" : "#b45309",
       strokeAnimationSpeed: 1, delayBetweenStrokes: 250,
       charDataLoader: (c, done, fail) => {

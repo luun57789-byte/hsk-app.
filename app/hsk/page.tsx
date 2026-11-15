@@ -47,7 +47,7 @@ export default function Hsk() {
         <>
           <div className="card">
             <strong>{words.length.toLocaleString("vi-VN")} từ</strong>
-            <span className="muted"> · đã học {learned} · trong flashcard {inDeck}</span>
+            <span className="muted"> · đã học {learned} · trong bộ thẻ {inDeck}</span>
             <div className="bar" style={{ margin: "8px 0" }}>
               <i style={{ width: `${words.length ? (learned / words.length) * 100 : 0}%` }} />
             </div>
@@ -60,11 +60,11 @@ export default function Hsk() {
                   setDeck(addCards(next));
                 }}
               >
-                + Thêm 20 từ tiếp theo vào flashcard
+                + Thêm 20 từ tiếp theo vào bộ thẻ
               </button>
             </div>
           </div>
-          <div className="list">{words.slice(0, shown).map((e) => <WordItem key={e.s} e={e} />)}</div>
+          <div className="list card">{words.slice(0, shown).map((e) => <WordItem key={e.s} e={e} />)}</div>
           {shown < words.length && (
             <p><button onClick={() => setShown(shown + 100)}>Xem thêm</button></p>
           )}
