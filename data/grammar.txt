@@ -554,3 +554,755 @@ Hỏi mà không cần trả lời, dùng để nhấn mạnh. Hình thức ph�
 Nêu một trường hợp nổi bật nhất để nhấn mạnh, giống "ngay cả ... cũng ...".
 这个问题连小孩子都知道。 | Zhège wèntí lián xiǎoháizi dōu zhīdào. | Vấn đề này ngay cả trẻ con cũng biết.
 他忙得连饭也没时间吃。 | Tā máng de lián fàn yě méi shíjiān chī. | Anh ấy bận đến mức cả cơm cũng không có thời gian ăn.
+
+## 5 | 1 | 离家的时候
+
+# 终于 | 终于 + động từ / tính từ
+"Cuối cùng thì", nói kết quả xuất hiện sau một thời gian dài cố gắng hoặc chờ đợi, thường là điều mình mong.
+经过一年的努力，他终于考上了大学。 | Jīngguò yì nián de nǔlì, tā zhōngyú kǎo shàng le dàxué. | Sau một năm cố gắng, cuối cùng anh ấy đã đỗ đại học.
+雨终于停了。 | Yǔ zhōngyú tíng le. | Mưa cuối cùng cũng tạnh.
+
+# 一切 | 一切 (+ danh từ) + 都 …
+Đại từ chỉ toàn bộ, mọi thứ. Thường đi với 都 và có thể đứng trước danh từ.
+这儿的一切都很新鲜。 | Zhèr de yíqiè dōu hěn xīnxiān. | Mọi thứ ở đây đều rất mới lạ.
+一切问题都解决了。 | Yíqiè wèntí dōu jiějué le. | Mọi vấn đề đều đã được giải quyết.
+
+# 如果…(的话) | 如果 + giả thiết (的话)，就 / 那 …
+"Nếu", nêu giả thiết; vế sau thường có 就 hoặc 那. Trang trọng hơn 要是.
+如果你想家的话，就给妈妈打个电话。 | Rúguǒ nǐ xiǎng jiā dehuà, jiù gěi māma dǎ ge diànhuà. | Nếu con nhớ nhà thì gọi điện cho mẹ.
+如果明天下雨，我们就不去了。 | Rúguǒ míngtiān xià yǔ, wǒmen jiù bú qù le. | Nếu mai mưa thì chúng ta không đi nữa.
+
+# 果然 | 果然 + động từ / câu
+"Quả nhiên", sự việc xảy ra đúng như đã nói hoặc đã đoán.
+天气预报说今天有雨，果然下雨了。 | Tiānqì yùbào shuō jīntiān yǒu yǔ, guǒrán xià yǔ le. | Dự báo nói hôm nay có mưa, quả nhiên mưa thật.
+他说他会来，果然来了。 | Tā shuō tā huì lái, guǒrán lái le. | Anh ấy nói sẽ đến, quả nhiên đã đến.
+
+# 对于 | 对于 + danh từ，…
+"Đối với", nêu đối tượng được bàn tới. Thường đứng trước danh từ, có thể đặt ở đầu câu.
+对于这个问题，我们还要再研究一下。 | Duìyú zhège wèntí, wǒmen hái yào zài yánjiū yíxià. | Đối với vấn đề này, chúng tôi còn phải nghiên cứu thêm.
+对于学外语的人来说，多听多说很重要。 | Duìyú xué wàiyǔ de rén lái shuō, duō tīng duō shuō hěn zhòngyào. | Với người học ngoại ngữ, nghe nhiều nói nhiều rất quan trọng.
+
+# 而 | Vế 1，而 + vế 2
+Liên từ dùng trong văn viết, nối hai vế có ý đối lập hoặc bổ sung cho nhau, giống "còn, mà".
+哥哥喜欢安静，而弟弟喜欢热闹。 | Gēge xǐhuan ānjìng, ér dìdi xǐhuan rènao. | Anh trai thích yên tĩnh, còn em trai thích náo nhiệt.
+这里夏天很热，而冬天不太冷。 | Zhèlǐ xiàtiān hěn rè, ér dōngtiān bú tài lěng. | Ở đây mùa hè rất nóng, còn mùa đông không lạnh lắm.
+
+## 5 | 2 | 一封信
+
+# 靠 | 靠 + người / vật (+ động từ)
+Nghĩa là dựa vào, tựa vào; cũng nói sống hoặc làm việc nhờ vào ai, cái gì.
+他靠在椅子上睡着了。 | Tā kào zài yǐzi shang shuì zháo le. | Anh ấy tựa vào ghế ngủ thiếp đi.
+学习主要靠自己努力。 | Xuéxí zhǔyào kào zìjǐ nǔlì. | Học tập chủ yếu dựa vào sự cố gắng của bản thân.
+
+# 各 và 每 | 各 + danh từ / 每 + lượng từ + danh từ
+各 nhấn mạnh từng cái khác nhau và đứng thẳng trước một số danh từ. 每 nhấn mạnh cái nào cũng như nhau và cần lượng từ.
+各国的风俗习惯都不一样。 | Gè guó de fēngsú xíguàn dōu bù yíyàng. | Phong tục tập quán các nước đều không giống nhau.
+每个学生都要参加考试。 | Měi ge xuésheng dōu yào cānjiā kǎoshì. | Mỗi học sinh đều phải tham gia kỳ thi.
+
+# 又 | 又 + động từ / tính từ
+Ngoài nghĩa "lại", 又 còn thêm một ý nữa vào điều vừa nói, hoặc nêu hai mặt trái ngược nhau.
+他是我的老师，又是我的朋友。 | Tā shì wǒ de lǎoshī, yòu shì wǒ de péngyou. | Thầy vừa là thầy giáo vừa là bạn của tôi.
+我想去，又怕没时间。 | Wǒ xiǎng qù, yòu pà méi shíjiān. | Tôi muốn đi nhưng lại sợ không có thời gian.
+
+# 分别 | 分别 + động từ
+Làm phó từ nghĩa là "lần lượt, riêng từng người"; làm động từ nghĩa là "chia tay".
+老师分别跟每个同学谈了话。 | Lǎoshī fēnbié gēn měi ge tóngxué tánle huà. | Thầy giáo lần lượt nói chuyện với từng bạn.
+我们分别已经三年了。 | Wǒmen fēnbié yǐjīng sān nián le. | Chúng tôi chia tay đã ba năm rồi.
+
+## 5 | 3 | 北京的四季
+
+# 拿…来说 | 拿 + ví dụ + 来说，…
+Đưa ra một ví dụ cụ thể để làm rõ điều vừa nói, giống "lấy ... mà nói".
+拿汉字来说，很多同学都觉得很难写。 | Ná Hànzì lái shuō, hěn duō tóngxué dōu juéde hěn nán xiě. | Lấy chữ Hán mà nói, nhiều bạn đều thấy rất khó viết.
+拿我来说，每天至少要学三个小时。 | Ná wǒ lái shuō, měi tiān zhìshǎo yào xué sān ge xiǎoshí. | Như tôi chẳng hạn, mỗi ngày phải học ít nhất ba tiếng.
+
+# 多么 | 多么 + tính từ + 啊
+Dùng trong câu cảm thán, nghĩa là "biết bao, thật là".
+这里的风景多么美啊！ | Zhèlǐ de fēngjǐng duōme měi a! | Phong cảnh ở đây đẹp biết bao!
+要是能去一次西藏，那该多么好啊！ | Yàoshi néng qù yí cì Xīzàng, nà gāi duōme hǎo a! | Nếu được đi Tây Tạng một lần thì tốt biết mấy!
+
+# 也许 | 也许 + câu / động từ
+"Có lẽ, có thể", nói điều mình đoán nhưng chưa chắc.
+他今天没来，也许是病了。 | Tā jīntiān méi lái, yěxǔ shì bìng le. | Hôm nay anh ấy không đến, có lẽ bị ốm rồi.
+明天也许会下雪。 | Míngtiān yěxǔ huì xià xuě. | Ngày mai có thể sẽ có tuyết.
+
+## 5 | 4 | 理想
+
+# 一点儿也不 / 没 | 一点儿 + 也 / 都 + 不 / 没 + …
+Phủ định hoàn toàn: "một chút cũng không".
+这个菜一点儿也不辣。 | Zhège cài yìdiǎnr yě bú là. | Món này không cay chút nào.
+他的话我一点儿都没听懂。 | Tā de huà wǒ yìdiǎnr dōu méi tīng dǒng. | Lời anh ấy nói tôi không hiểu chút nào.
+
+# 不过 | …，不过 …
+"Nhưng, có điều", chuyển ý nhẹ hơn 但是, hay dùng khi nói.
+这件衣服很好看，不过有点儿贵。 | Zhè jiàn yīfu hěn hǎokàn, búguò yǒudiǎnr guì. | Chiếc áo này rất đẹp, có điều hơi đắt.
+我很想去，不过今天没有时间。 | Wǒ hěn xiǎng qù, búguò jīntiān méiyǒu shíjiān. | Tôi rất muốn đi nhưng hôm nay không có thời gian.
+
+# 简直 | 简直 + động từ / tính từ
+"Quả thực, đúng là", nhấn mạnh hoàn toàn hoặc gần như là vậy, có ý phóng đại.
+他说汉语说得简直跟中国人一样。 | Tā shuō Hànyǔ shuō de jiǎnzhí gēn Zhōngguó rén yíyàng. | Anh ấy nói tiếng Trung quả thực giống hệt người Trung Quốc.
+这个消息简直让人不敢相信。 | Zhège xiāoxi jiǎnzhí ràng rén bù gǎn xiāngxìn. | Tin này quả thực khiến người ta không dám tin.
+
+# 当然 | 当然 + động từ / câu
+"Đương nhiên, tất nhiên", khẳng định không cần nghi ngờ. Đứng trước động từ hoặc trước chủ ngữ.
+朋友有困难，我当然要帮助他。 | Péngyou yǒu kùnnan, wǒ dāngrán yào bāngzhù tā. | Bạn gặp khó khăn, tất nhiên tôi phải giúp.
+你会来吗？当然会。 | Nǐ huì lái ma? Dāngrán huì. | Bạn sẽ đến chứ? Tất nhiên rồi.
+
+# 从 (从来) | 从 / 从来 + 不 / 没 + động từ
+"Từ trước đến nay", thường dùng trong câu phủ định.
+我从没见过这么大的雪。 | Wǒ cóng méi jiànguo zhème dà de xuě. | Tôi chưa từng thấy tuyết to như thế này.
+他上课从来不迟到。 | Tā shàngkè cónglái bù chídào. | Anh ấy đi học chưa bao giờ đến muộn.
+
+# Động từ + 着 + động từ + 着 | A 着 A 着，B
+Đang làm việc A thì việc B xảy ra lúc nào không hay.
+孩子哭着哭着就睡着了。 | Háizi kūzhe kūzhe jiù shuì zháo le. | Đứa bé khóc mãi rồi ngủ thiếp đi.
+我们聊着聊着，天就黑了。 | Wǒmen liáozhe liáozhe, tiān jiù hēi le. | Chúng tôi mải trò chuyện, trời tối lúc nào không hay.
+
+## 5 | 5 | 回头再说
+
+# 再说 | …，再说 …
+Bổ sung thêm một lý do nữa: "hơn nữa". Cũng có nghĩa "để sau hãy tính".
+今天太晚了，再说我也累了，明天再去吧。 | Jīntiān tài wǎn le, zàishuō wǒ yě lèi le, míngtiān zài qù ba. | Hôm nay muộn quá, hơn nữa tôi cũng mệt, để mai đi nhé.
+这件事以后再说吧。 | Zhè jiàn shì yǐhòu zàishuō ba. | Việc này để sau hãy tính.
+
+# 其实 | 其实 + câu
+"Thật ra", nêu sự thật khác với điều người ta tưởng.
+大家都以为他是中国人，其实他是越南人。 | Dàjiā dōu yǐwéi tā shì Zhōngguó rén, qíshí tā shì Yuènán rén. | Ai cũng tưởng anh ấy là người Trung Quốc, thật ra anh ấy là người Việt Nam.
+这个字看起来很难，其实很好写。 | Zhège zì kàn qǐlai hěn nán, qíshí hěn hǎo xiě. | Chữ này trông có vẻ khó, thật ra rất dễ viết.
+
+# 用得着 / 用不着 | 用得着 / 用不着 + danh từ / động từ
+用得着 là cần dùng đến, 用不着 là không cần.
+这本词典你留着吧，以后用得着。 | Zhè běn cídiǎn nǐ liúzhe ba, yǐhòu yòng de zháo. | Quyển từ điển này bạn cứ giữ, sau này sẽ cần đến.
+这点儿小事用不着麻烦别人。 | Zhè diǎnr xiǎo shì yòng bu zháo máfan biérén. | Chút việc nhỏ này không cần làm phiền người khác.
+
+## 5 | 6 | 吃葡萄
+
+# 不料 | …，不料 …
+"Không ngờ", vế sau là điều xảy ra ngoài dự tính.
+早上天气很好，不料下午下起了大雨。 | Zǎoshang tiānqì hěn hǎo, búliào xiàwǔ xià qǐle dà yǔ. | Buổi sáng trời rất đẹp, không ngờ buổi chiều lại mưa to.
+我想给他一个惊喜，不料他已经知道了。 | Wǒ xiǎng gěi tā yí ge jīngxǐ, búliào tā yǐjīng zhīdào le. | Tôi định làm anh ấy bất ngờ, không ngờ anh ấy đã biết rồi.
+
+# 竟然 | 竟然 + động từ / tính từ
+"Vậy mà, thế mà lại", tỏ ý rất ngạc nhiên.
+这么简单的题，他竟然做错了。 | Zhème jiǎndān de tí, tā jìngrán zuò cuò le. | Bài dễ thế này mà anh ấy lại làm sai.
+才学了半年，她的汉语竟然说得这么好。 | Cái xuéle bàn nián, tā de Hànyǔ jìngrán shuō de zhème hǎo. | Mới học nửa năm mà cô ấy nói tiếng Trung giỏi đến thế.
+
+# 只是 | …，只是 …
+"Chỉ là, có điều", bổ sung một ý chưa trọn vẹn, nhẹ hơn 不过.
+这件衣服很漂亮，只是颜色深了一点儿。 | Zhè jiàn yīfu hěn piàoliang, zhǐshì yánsè shēnle yìdiǎnr. | Chiếc áo này rất đẹp, chỉ là màu hơi đậm.
+我只是问问，没有别的意思。 | Wǒ zhǐshì wènwen, méiyǒu bié de yìsi. | Tôi chỉ hỏi thôi, không có ý gì khác.
+
+## 5 | 7 | 成语故事
+
+# Động từ + 下 | Động từ + 下 (+ tân ngữ)
+下 làm bổ ngữ kết quả, chỉ việc làm xong và giữ lại, hoặc chứa được.
+请留下你的电话号码。 | Qǐng liú xià nǐ de diànhuà hàomǎ. | Xin để lại số điện thoại của bạn.
+他在北京买下了一套房子。 | Tā zài Běijīng mǎi xià le yí tào fángzi. | Anh ấy đã mua một căn nhà ở Bắc Kinh.
+
+# 根本 | 根本 + 不 / 没 + động từ
+"Hoàn toàn, căn bản", thường dùng trong câu phủ định.
+我根本不知道这件事。 | Wǒ gēnběn bù zhīdào zhè jiàn shì. | Tôi hoàn toàn không biết chuyện này.
+他根本没来过这儿。 | Tā gēnběn méi láiguo zhèr. | Anh ấy chưa hề đến đây.
+
+# 入迷 | 对 … 入迷 / động từ + 得 + 入迷
+"Say mê". Không mang tân ngữ phía sau, phải nói 对…入迷.
+他对音乐很入迷。 | Tā duì yīnyuè hěn rùmí. | Anh ấy rất say mê âm nhạc.
+孩子们听故事听得入了迷。 | Háizimen tīng gùshi tīng de rùle mí. | Bọn trẻ nghe kể chuyện đến mê mẩn.
+
+# 偷偷 | 偷偷 (地) + động từ
+"Lén lút, âm thầm", làm việc gì mà không để người khác biết.
+他偷偷地离开了教室。 | Tā tōutōu de líkāile jiàoshì. | Cậu ấy lén rời khỏi lớp học.
+妹妹偷偷告诉我一个秘密。 | Mèimei tōutōu gàosu wǒ yí ge mìmì. | Em gái lén kể cho tôi một bí mật.
+
+# 为了 | 为了 + mục đích，…
+"Để, vì", nêu mục đích và thường đứng ở vế trước.
+为了学好汉语，他每天都跟中国朋友聊天儿。 | Wèile xué hǎo Hànyǔ, tā měi tiān dōu gēn Zhōngguó péngyou liáotiānr. | Để học tốt tiếng Trung, ngày nào anh ấy cũng trò chuyện với bạn Trung Quốc.
+为了健康，你应该少喝酒。 | Wèile jiànkāng, nǐ yīnggāi shǎo hē jiǔ. | Vì sức khỏe, bạn nên uống ít rượu.
+
+# 不管…都 / 也… | 不管 + câu hỏi / lựa chọn，都 / 也 …
+"Bất kể ... đều ...". Sau 不管 là đại từ nghi vấn hoặc hai khả năng đặt cạnh nhau.
+不管天气怎么样，他都坚持跑步。 | Bùguǎn tiānqì zěnmeyàng, tā dōu jiānchí pǎobù. | Bất kể thời tiết thế nào, anh ấy vẫn kiên trì chạy bộ.
+不管你去不去，我都要去。 | Bùguǎn nǐ qù bu qù, wǒ dōu yào qù. | Dù bạn đi hay không, tôi vẫn sẽ đi.
+
+# 其中 | …，其中 …
+"Trong đó", chỉ một phần nằm trong phạm vi vừa nhắc tới.
+我们班有二十个学生，其中八个是女生。 | Wǒmen bān yǒu èrshí ge xuésheng, qízhōng bā ge shì nǚshēng. | Lớp chúng tôi có hai mươi học sinh, trong đó tám bạn là nữ.
+我去过很多城市，其中最喜欢的是杭州。 | Wǒ qùguo hěn duō chéngshì, qízhōng zuì xǐhuan de shì Hángzhōu. | Tôi đã đi nhiều thành phố, trong đó thích nhất là Hàng Châu.
+
+# 既然…就… | 既然 + sự thật，就 / 也 / 还 …
+"Đã ... thì ...", vế trước nêu điều đã là sự thật, vế sau rút ra kết luận.
+既然你不舒服，就回去休息吧。 | Jìrán nǐ bù shūfu, jiù huíqu xiūxi ba. | Bạn đã không khỏe thì về nghỉ đi.
+既然来了，就多住几天吧。 | Jìrán lái le, jiù duō zhù jǐ tiān ba. | Đã đến rồi thì ở thêm vài ngày nhé.
+
+## 5 | 8 | 恋爱故事
+
+# 任何 | 任何 + danh từ + 都 / 也 …
+"Bất cứ", thường đi với 都 hoặc 也 và không cần lượng từ.
+任何人都不能迟到。 | Rènhé rén dōu bù néng chídào. | Bất cứ ai cũng không được đến muộn.
+遇到任何困难都可以来找我。 | Yùdào rènhé kùnnan dōu kěyǐ lái zhǎo wǒ. | Gặp bất cứ khó khăn nào cũng có thể đến tìm tôi.
+
+# 尽量 | 尽量 + động từ
+"Cố gắng hết mức có thể".
+上课的时候请尽量说汉语。 | Shàngkè de shíhou qǐng jǐnliàng shuō Hànyǔ. | Trong giờ học xin cố gắng nói tiếng Trung.
+我会尽量早点儿到。 | Wǒ huì jǐnliàng zǎo diǎnr dào. | Tôi sẽ cố gắng đến sớm một chút.
+
+# 立刻 | 立刻 + động từ
+"Lập tức", việc xảy ra ngay sau đó, nhanh hơn 马上.
+听到这个消息，他立刻给家里打了电话。 | Tīngdào zhège xiāoxi, tā lìkè gěi jiāli dǎle diànhuà. | Nghe tin này, anh ấy lập tức gọi điện về nhà.
+请大家立刻到操场集合。 | Qǐng dàjiā lìkè dào cāochǎng jíhé. | Xin mọi người lập tức ra sân tập hợp.
+
+# 一连 | 一连 + động từ + số lượng
+"Liên tiếp", cùng một việc xảy ra nhiều lần hoặc kéo dài liền nhau. Phía sau phải có số lượng.
+雨一连下了三天。 | Yǔ yìlián xiàle sān tiān. | Mưa liên tiếp ba ngày.
+他一连问了我好几个问题。 | Tā yìlián wènle wǒ hǎo jǐ ge wèntí. | Anh ấy hỏi tôi liền mấy câu.
+
+# 仍然 (仍) | 仍然 + động từ / tính từ
+"Vẫn", tình hình không thay đổi. Dùng nhiều trong văn viết, khi nói thường dùng 还是.
+十年过去了，他仍然住在那儿。 | Shí nián guòqu le, tā réngrán zhù zài nàr. | Mười năm trôi qua, anh ấy vẫn sống ở đó.
+虽然很累，他仍然坚持工作。 | Suīrán hěn lèi, tā réngrán jiānchí gōngzuò. | Tuy rất mệt, anh ấy vẫn kiên trì làm việc.
+
+## 5 | 9 | 幸福的感觉
+
+# 曾经 | 曾经 + động từ + 过
+"Đã từng", việc có trong quá khứ và nay đã kết thúc. Khác 已经 là việc có thể vẫn đang tiếp diễn.
+我曾经在上海住过两年。 | Wǒ céngjīng zài Shànghǎi zhùguo liǎng nián. | Tôi đã từng sống ở Thượng Hải hai năm.
+他曾经是一名医生。 | Tā céngjīng shì yì míng yīshēng. | Ông ấy đã từng là bác sĩ.
+
+# 到底 | 到底 + câu hỏi / 到底 + động từ + 了
+Trong câu hỏi nghĩa là "rốt cuộc" để hỏi cho ra nhẽ. Trong câu kể nghĩa là "cuối cùng thì".
+你到底去不去？ | Nǐ dàodǐ qù bu qù? | Rốt cuộc bạn có đi hay không?
+经过多次试验，他们到底成功了。 | Jīngguò duō cì shìyàn, tāmen dàodǐ chénggōng le. | Sau nhiều lần thử nghiệm, cuối cùng họ đã thành công.
+
+# 原来 | 原来 + câu
+Nghĩa thứ nhất là "vốn dĩ, trước đây". Nghĩa thứ hai là "hóa ra" khi phát hiện điều trước đó chưa biết.
+我原来住在学校里，现在搬到外边了。 | Wǒ yuánlái zhù zài xuéxiào li, xiànzài bān dào wàibian le. | Trước đây tôi ở trong trường, giờ đã chuyển ra ngoài.
+原来是你啊，我还以为是小王呢。 | Yuánlái shì nǐ a, wǒ hái yǐwéi shì Xiǎo Wáng ne. | Hóa ra là bạn à, tôi cứ tưởng là Tiểu Vương.
+
+# 装 | 装 + động từ / tính từ / 装 + đồ vật
+Nghĩa là giả vờ; cũng có nghĩa đựng, lắp vào.
+他明明知道，却装不知道。 | Tā míngmíng zhīdào, què zhuāng bù zhīdào. | Anh ấy rõ ràng biết mà lại giả vờ không biết.
+箱子里装满了书。 | Xiāngzi li zhuāng mǎn le shū. | Trong vali đựng đầy sách.
+
+# 对…来说 | 对 + người + 来说，…
+"Đối với ... mà nói", nhìn vấn đề từ góc độ của ai đó.
+对我来说，汉语的声调最难。 | Duì wǒ lái shuō, Hànyǔ de shēngdiào zuì nán. | Đối với tôi, thanh điệu tiếng Trung là khó nhất.
+对孩子来说，玩儿也是一种学习。 | Duì háizi lái shuō, wánr yě shì yì zhǒng xuéxí. | Đối với trẻ con, chơi cũng là một cách học.
+
+## 5 | 10 | 提高自己
+
+# 弄 | 弄 + bổ ngữ / tân ngữ
+Động từ đa năng trong khẩu ngữ, thay cho một động từ cụ thể, nghĩa là "làm".
+对不起，我把你的书弄脏了。 | Duìbuqǐ, wǒ bǎ nǐ de shū nòng zāng le. | Xin lỗi, tôi làm bẩn sách của bạn rồi.
+这个问题我还没弄明白。 | Zhège wèntí wǒ hái méi nòng míngbai. | Vấn đề này tôi vẫn chưa hiểu rõ.
+
+# 以后 | Thời gian / động từ + 以后
+"Sau khi, về sau". Đứng sau từ chỉ thời gian hoặc động từ, dùng được cho cả quá khứ và tương lai, cũng có thể đứng một mình.
+下课以后我们去打球吧。 | Xiàkè yǐhòu wǒmen qù dǎ qiú ba. | Tan học chúng ta đi chơi bóng nhé.
+以后有什么问题，随时来问我。 | Yǐhòu yǒu shénme wèntí, suíshí lái wèn wǒ. | Sau này có vấn đề gì cứ đến hỏi tôi bất cứ lúc nào.
+
+# 却 | Chủ ngữ + 却 + động từ / tính từ
+"Lại, nhưng lại", chuyển ý. Luôn đứng sau chủ ngữ, có thể dùng cùng 但是.
+他学的时间不长，说得却很流利。 | Tā xué de shíjiān bù cháng, shuō de què hěn liúlì. | Anh ấy học chưa lâu nhưng nói lại rất trôi chảy.
+大家都走了，他却留了下来。 | Dàjiā dōu zǒu le, tā què liúle xiàlai. | Mọi người đều đi rồi, anh ấy lại ở lại.
+
+# 偶然 | 偶然 (的) + danh từ / 偶然 + động từ
+"Tình cờ, ngẫu nhiên".
+我是在一个偶然的机会认识他的。 | Wǒ shì zài yí ge ǒurán de jīhuì rènshi tā de. | Tôi quen anh ấy trong một dịp tình cờ.
+昨天我在街上偶然遇见了老同学。 | Zuótiān wǒ zài jiē shang ǒurán yùjiànle lǎo tóngxué. | Hôm qua tôi tình cờ gặp bạn học cũ trên phố.
+
+## 5 | 11 | 我看见了飞碟
+
+# 大约 | 大约 + số lượng / câu
+"Khoảng chừng" khi đứng trước số lượng; cũng có nghĩa "có lẽ".
+从这儿到机场大约要一个小时。 | Cóng zhèr dào jīchǎng dàyuē yào yí ge xiǎoshí. | Từ đây đến sân bay mất khoảng một tiếng.
+他大约已经回国了。 | Tā dàyuē yǐjīng huí guó le. | Có lẽ anh ấy đã về nước rồi.
+
+# 不约而同 | 不约而同 (地) + động từ
+Thành ngữ: không hẹn trước mà cùng làm giống nhau.
+听了他的话，大家不约而同地笑了起来。 | Tīngle tā de huà, dàjiā bù yuē ér tóng de xiàole qǐlai. | Nghe anh ấy nói, mọi người không hẹn mà cùng cười.
+我们不约而同地选了同一个礼物。 | Wǒmen bù yuē ér tóng de xuǎnle tóng yí ge lǐwù. | Chúng tôi không hẹn mà chọn cùng một món quà.
+
+# 无奈 | 无奈 / 无奈 (地) + động từ
+"Đành chịu, bất đắc dĩ", không còn cách nào khác.
+他无奈地摇了摇头。 | Tā wúnài de yáole yáo tóu. | Anh ấy lắc đầu bất lực.
+我本来想去旅行，无奈工作太忙。 | Wǒ běnlái xiǎng qù lǚxíng, wúnài gōngzuò tài máng. | Tôi vốn định đi du lịch, ngặt nỗi công việc bận quá.
+
+# 十分 | 十分 + tính từ / động từ tâm lý
+"Vô cùng, hết sức". Có thể nói 不十分, còn 非常 thì không dùng như vậy.
+听到这个消息，我们十分高兴。 | Tīngdào zhège xiāoxi, wǒmen shífēn gāoxìng. | Nghe tin này, chúng tôi vô cùng vui mừng.
+我对这儿的情况还不十分了解。 | Wǒ duì zhèr de qíngkuàng hái bù shífēn liǎojiě. | Tôi vẫn chưa hiểu rõ lắm tình hình ở đây.
+
+# Tính từ + 下去 | Tính từ + 下去
+Một trạng thái đã có sẽ còn tiếp tục và tăng thêm.
+天气再这样冷下去，湖水就要结冰了。 | Tiānqì zài zhèyàng lěng xiàqu, húshuǐ jiù yào jiébīng le. | Trời cứ lạnh thế này thì nước hồ sắp đóng băng.
+你不能再瘦下去了。 | Nǐ bù néng zài shòu xiàqu le. | Bạn không thể gầy thêm nữa đâu.
+
+## 5 | 12 | 好人难当
+
+# 尽管…但是 / 还是… | 尽管 + sự thật，但是 / 还是 …
+"Mặc dù ... nhưng ...". Vế trước là sự thật đã có, giống 虽然.
+尽管下着大雨，他还是按时来了。 | Jǐnguǎn xiàzhe dà yǔ, tā háishi ànshí lái le. | Mặc dù trời mưa to, anh ấy vẫn đến đúng giờ.
+尽管很累，但是我心里很高兴。 | Jǐnguǎn hěn lèi, dànshì wǒ xīnli hěn gāoxìng. | Mặc dù rất mệt nhưng trong lòng tôi rất vui.
+
+# 难免 | 难免 + (会 / 要) + động từ
+"Khó tránh khỏi".
+刚到国外，生活上难免会不习惯。 | Gāng dào guówài, shēnghuó shang nánmiǎn huì bù xíguàn. | Mới ra nước ngoài, trong sinh hoạt khó tránh khỏi chưa quen.
+学外语，说错是难免的。 | Xué wàiyǔ, shuō cuò shì nánmiǎn de. | Học ngoại ngữ, nói sai là điều khó tránh.
+
+# 免得 | …，免得 + điều không mong muốn
+"Để khỏi, kẻo", làm việc ở vế trước để tránh điều ở vế sau.
+你到了就给我打个电话，免得我担心。 | Nǐ dàole jiù gěi wǒ dǎ ge diànhuà, miǎnde wǒ dānxīn. | Đến nơi thì gọi cho mẹ một cuộc để mẹ khỏi lo.
+多穿点儿衣服，免得感冒。 | Duō chuān diǎnr yīfu, miǎnde gǎnmào. | Mặc thêm áo vào kẻo bị cảm.
+
+# 以为 | 以为 + câu
+"Tưởng rằng", điều mình nghĩ hóa ra không đúng với sự thật.
+我以为你已经回国了。 | Wǒ yǐwéi nǐ yǐjīng huí guó le. | Tôi tưởng bạn đã về nước rồi.
+他说得那么好，我还以为他是中国人呢。 | Tā shuō de nàme hǎo, wǒ hái yǐwéi tā shì Zhōngguó rén ne. | Anh ấy nói giỏi thế, tôi cứ tưởng là người Trung Quốc.
+
+# 来 | 来 + động từ / 来 + số lượng + danh từ
+来 đứng trước động từ nói mình sẽ chủ động làm việc đó. Khi gọi món, 来 thay cho "cho, lấy".
+你休息一下，我来洗碗。 | Nǐ xiūxi yíxià, wǒ lái xǐ wǎn. | Bạn nghỉ một chút, để tôi rửa bát.
+服务员，再来两瓶啤酒。 | Fúwùyuán, zài lái liǎng píng píjiǔ. | Phục vụ ơi, cho thêm hai chai bia.
+
+## 5 | 13 | 百姓话题
+
+# 总之 | …，总之 …
+"Tóm lại", tổng kết những điều đã nói ở trên. Cũng nói 总而言之.
+有人喜欢唱歌，有人喜欢跳舞，总之，大家都玩儿得很开心。 | Yǒu rén xǐhuan chànggē, yǒu rén xǐhuan tiàowǔ, zǒngzhī, dàjiā dōu wánr de hěn kāixīn. | Người thích hát, người thích nhảy, tóm lại mọi người đều chơi rất vui.
+不管你怎么说，总之我不同意。 | Bùguǎn nǐ zěnme shuō, zǒngzhī wǒ bù tóngyì. | Dù bạn nói thế nào, tóm lại tôi không đồng ý.
+
+# 总得 | 总得 + động từ
+"Dù sao cũng phải".
+不管多忙，饭总得吃吧。 | Bùguǎn duō máng, fàn zǒngděi chī ba. | Dù bận đến đâu thì cơm cũng phải ăn chứ.
+这件事总得有人去做。 | Zhè jiàn shì zǒngděi yǒu rén qù zuò. | Việc này dù sao cũng phải có người làm.
+
+# 够 | 够 + tính từ / động từ + 够
+"Đủ". Đứng trước tính từ chỉ mức độ đã đủ hoặc đã cao.
+这些菜够我们吃了。 | Zhèxiē cài gòu wǒmen chī le. | Chừng này món đủ cho chúng ta ăn rồi.
+你已经够忙的了，别再加班了。 | Nǐ yǐjīng gòu máng de le, bié zài jiābān le. | Bạn đã đủ bận rồi, đừng tăng ca nữa.
+
+# 哪怕…也… | 哪怕 + giả thiết，也 / 都 …
+"Cho dù ... cũng ...". Giống 即使 nhưng dùng nhiều khi nói.
+哪怕再忙，我也要去看他。 | Nǎpà zài máng, wǒ yě yào qù kàn tā. | Cho dù bận đến đâu, tôi cũng phải đi thăm anh ấy.
+哪怕只有一点儿希望，我们也不能放弃。 | Nǎpà zhǐ yǒu yìdiǎnr xīwàng, wǒmen yě bù néng fàngqì. | Dù chỉ còn một chút hy vọng, chúng ta cũng không được bỏ cuộc.
+
+# 敢 | 敢 + động từ
+"Dám", có can đảm làm việc gì.
+我不敢一个人走夜路。 | Wǒ bù gǎn yí ge rén zǒu yèlù. | Tôi không dám đi đường ban đêm một mình.
+你敢不敢跟他比赛？ | Nǐ gǎn bu gǎn gēn tā bǐsài? | Bạn có dám thi đấu với anh ấy không?
+
+# 好在 | 好在 + câu
+"May mà", trong tình huống không thuận lợi vẫn có một điều kiện tốt.
+我忘了带钥匙，好在同屋在家。 | Wǒ wàngle dài yàoshi, hǎozài tóngwū zài jiā. | Tôi quên mang chìa khóa, may mà bạn cùng phòng ở nhà.
+雨下得很大，好在我带了伞。 | Yǔ xià de hěn dà, hǎozài wǒ dàile sǎn. | Mưa rất to, may mà tôi mang ô.
+
+# 为难 | 为难 / 让 + người + 为难
+"Khó xử"; cũng có nghĩa "làm khó ai".
+去还是不去，我感到很为难。 | Qù háishi bú qù, wǒ gǎndào hěn wéinán. | Đi hay không đi, tôi thấy rất khó xử.
+你别为难他了，他也没办法。 | Nǐ bié wéinán tā le, tā yě méi bànfǎ. | Bạn đừng làm khó anh ấy nữa, anh ấy cũng không có cách nào.
+
+# 反而 | …，反而 …
+"Trái lại", kết quả ngược với điều lẽ ra phải xảy ra.
+吃了药，他的病反而更重了。 | Chīle yào, tā de bìng fǎn'ér gèng zhòng le. | Uống thuốc rồi, bệnh của anh ấy trái lại còn nặng hơn.
+我帮了他，他反而不高兴。 | Wǒ bāngle tā, tā fǎn'ér bù gāoxìng. | Tôi giúp anh ấy, anh ấy trái lại không vui.
+
+## 6 | 14 | 谁当家
+
+# 由 | 由 + người + động từ
+Giới từ, nêu người chịu trách nhiệm làm một việc.
+这件事由我来负责。 | Zhè jiàn shì yóu wǒ lái fùzé. | Việc này do tôi phụ trách.
+家里的钱由妈妈管。 | Jiāli de qián yóu māma guǎn. | Tiền trong nhà do mẹ quản lý.
+
+# 并 (并且) | Động từ 1 + 并 + động từ 2
+"Và, đồng thời", nối hai động từ hoặc hai vế, ý sau tiến thêm một bước. Dùng trong văn viết.
+大家讨论并通过了这个计划。 | Dàjiā tǎolùn bìng tōngguòle zhège jìhuà. | Mọi người đã thảo luận và thông qua kế hoạch này.
+他会说汉语，并且说得很流利。 | Tā huì shuō Hànyǔ, bìngqiě shuō de hěn liúlì. | Anh ấy biết nói tiếng Trung, hơn nữa nói rất trôi chảy.
+
+# 勉强 | 勉强 + động từ / 勉强 + người
+"Miễn cưỡng, gắng gượng"; cũng có nghĩa "ép buộc ai".
+他不想去，你就别勉强他了。 | Tā bù xiǎng qù, nǐ jiù bié miǎnqiǎng tā le. | Anh ấy không muốn đi thì bạn đừng ép.
+这次考试我勉强及格了。 | Zhè cì kǎoshì wǒ miǎnqiǎng jígé le. | Kỳ thi này tôi vừa đủ điểm đỗ.
+
+# 顿时 | 顿时 + động từ / tính từ
+"Lập tức, bỗng chốc". Chỉ dùng khi kể lại việc đã qua.
+听到这个消息，教室里顿时安静了下来。 | Tīngdào zhège xiāoxi, jiàoshì li dùnshí ānjìngle xiàlai. | Nghe tin này, lớp học lập tức yên lặng.
+灯一亮，房间顿时亮了起来。 | Dēng yí liàng, fángjiān dùnshí liàngle qǐlai. | Đèn vừa bật, căn phòng bỗng sáng bừng lên.
+
+## 6 | 15 | 受伤以后
+
+# 从…来看 | 从 + phương diện + 来看，…
+"Xét từ ... mà nói", nêu góc độ để nhận xét.
+从考试成绩来看，他进步很大。 | Cóng kǎoshì chéngjì lái kàn, tā jìnbù hěn dà. | Xét từ kết quả thi, anh ấy tiến bộ rất nhiều.
+从这一点来看，你的想法是对的。 | Cóng zhè yì diǎn lái kàn, nǐ de xiǎngfǎ shì duì de. | Xét từ điểm này, suy nghĩ của bạn là đúng.
+
+# 向来 | 向来 + động từ / tính từ
+"Xưa nay vẫn vậy".
+他向来不喜欢热闹。 | Tā xiànglái bù xǐhuan rènao. | Anh ấy xưa nay không thích náo nhiệt.
+她做事向来很认真。 | Tā zuò shì xiànglái hěn rènzhēn. | Cô ấy làm việc xưa nay rất cẩn thận.
+
+# 每当…都… | 每当 + thời điểm，都 …
+"Mỗi khi ... đều ...".
+每当听到这首歌，我都会想起我的家乡。 | Měi dāng tīngdào zhè shǒu gē, wǒ dōu huì xiǎng qǐ wǒ de jiāxiāng. | Mỗi khi nghe bài hát này, tôi đều nhớ quê.
+每当春节的时候，全家人都要在一起吃饭。 | Měi dāng Chūnjié de shíhou, quán jiā rén dōu yào zài yìqǐ chīfàn. | Mỗi dịp Tết, cả nhà đều cùng ăn cơm.
+
+# 不时 | 不时 (地) + động từ
+"Chốc chốc lại, thỉnh thoảng".
+他不时地看看手表。 | Tā bùshí de kànkan shǒubiǎo. | Anh ấy chốc chốc lại nhìn đồng hồ.
+窗外不时传来孩子们的笑声。 | Chuāng wài bùshí chuánlái háizimen de xiàoshēng. | Ngoài cửa sổ thỉnh thoảng vọng vào tiếng cười của bọn trẻ.
+
+# 当 | 当 … 的时候 / 当 + nghề nghiệp
+当…的时候 là "khi". 当 còn là động từ nghĩa "làm" một nghề, một vai trò.
+当我回到家的时候，天已经黑了。 | Dāng wǒ huí dào jiā de shíhou, tiān yǐjīng hēi le. | Khi tôi về đến nhà, trời đã tối.
+她从小就想当老师。 | Tā cóng xiǎo jiù xiǎng dāng lǎoshī. | Từ nhỏ cô ấy đã muốn làm giáo viên.
+
+# 非…不可 | 非 + động từ + 不可
+"Nhất định phải", nói điều bắt buộc hoặc ý muốn rất mạnh.
+这件事非你去不可。 | Zhè jiàn shì fēi nǐ qù bùkě. | Việc này nhất định phải là bạn đi.
+他非要现在走不可。 | Tā fēi yào xiànzài zǒu bùkě. | Anh ấy nhất định đòi đi ngay bây giờ.
+
+# 千万 | 千万 + 要 / 别 / 不要 + động từ
+"Nhất thiết, tuyệt đối", dùng để dặn dò. Không dùng khi chủ ngữ là "tôi".
+过马路的时候千万要小心。 | Guò mǎlù de shíhou qiānwàn yào xiǎoxīn. | Khi sang đường nhất định phải cẩn thận.
+这件事你千万别告诉他。 | Zhè jiàn shì nǐ qiānwàn bié gàosu tā. | Chuyện này bạn tuyệt đối đừng nói với anh ấy.
+
+## 6 | 16 | 话说“慢点儿”
+
+# 难道 | 难道 … (吗)？
+Dùng trong câu phản vấn để nhấn mạnh: "chẳng lẽ".
+难道你不知道今天考试吗？ | Nándào nǐ bù zhīdào jīntiān kǎoshì ma? | Chẳng lẽ bạn không biết hôm nay thi sao?
+这么简单的道理，难道你还不明白？ | Zhème jiǎndān de dàolǐ, nándào nǐ hái bù míngbai? | Đạo lý đơn giản thế, chẳng lẽ bạn vẫn chưa hiểu?
+
+# 幸亏 | 幸亏 + câu，(不然 / 要不) …
+"May mà", nhờ một điều kiện có lợi mà tránh được chuyện xấu. Cũng nói 幸好.
+幸亏你提醒我，不然我就忘了。 | Xìngkuī nǐ tíxǐng wǒ, bùrán wǒ jiù wàng le. | May mà bạn nhắc, không thì tôi quên mất.
+幸亏我们来得早，要不就买不到票了。 | Xìngkuī wǒmen lái de zǎo, yàobù jiù mǎi bu dào piào le. | May mà chúng ta đến sớm, không thì không mua được vé.
+
+# 不得了 | Tính từ + 得 + 不得了 / 不得了了
+Sau 得 chỉ mức độ rất cao. Đứng một mình nghĩa là tình hình nghiêm trọng.
+听说要去旅行，孩子们高兴得不得了。 | Tīngshuō yào qù lǚxíng, háizimen gāoxìng de bùdéliǎo. | Nghe nói sắp đi du lịch, bọn trẻ vui không tả nổi.
+不得了了，着火了！ | Bùdéliǎo le, zháohuǒ le! | Nguy rồi, cháy rồi!
+
+# 好容易 | 好容易 / 好不容易 + 才 + động từ
+"Khó khăn lắm mới". 好容易 và 好不容易 nghĩa giống nhau.
+我好容易才买到这张票。 | Wǒ hǎo róngyì cái mǎi dào zhè zhāng piào. | Khó khăn lắm tôi mới mua được tấm vé này.
+他好不容易才找到一份工作。 | Tā hǎo bù róngyì cái zhǎo dào yí fèn gōngzuò. | Vất vả lắm anh ấy mới tìm được một công việc.
+
+# 明明 | 明明 + sự thật，(却 / 怎么) …
+"Rõ ràng là", vế sau thường nói điều trái ngược hoặc trách móc.
+你明明知道，为什么不告诉我？ | Nǐ míngmíng zhīdào, wèi shénme bú gàosu wǒ? | Bạn rõ ràng biết, sao không nói với tôi?
+明明是他的错，他却不承认。 | Míngmíng shì tā de cuò, tā què bù chéngrèn. | Rõ ràng là lỗi của anh ấy, vậy mà anh ấy không nhận.
+
+## 6 | 17 | 再试一次
+
+# 一向 | 一向 + động từ / tính từ
+"Xưa nay luôn", từ trước đến giờ vẫn thế.
+他身体一向很好。 | Tā shēntǐ yíxiàng hěn hǎo. | Sức khỏe của anh ấy xưa nay rất tốt.
+我一向不喜欢吃甜的。 | Wǒ yíxiàng bù xǐhuan chī tián de. | Tôi xưa nay không thích ăn đồ ngọt.
+
+# 何况 | …，何况 … (呢)？
+"Huống chi", dùng câu hỏi tu từ để nói điều sau càng hiển nhiên hơn.
+这个问题连老师都不会，何况我们呢？ | Zhège wèntí lián lǎoshī dōu bú huì, hékuàng wǒmen ne? | Câu này ngay cả thầy còn không biết, huống chi chúng ta?
+平时这里人就很多，何况今天是周末。 | Píngshí zhèlǐ rén jiù hěn duō, hékuàng jīntiān shì zhōumò. | Ngày thường ở đây đã đông, huống chi hôm nay là cuối tuần.
+
+# 或…或… | 或 + A，或 + B
+"Hoặc ... hoặc ...", liệt kê các khả năng, dùng trong văn viết.
+周末我或看书，或听音乐，过得很轻松。 | Zhōumò wǒ huò kàn shū, huò tīng yīnyuè, guò de hěn qīngsōng. | Cuối tuần tôi hoặc đọc sách hoặc nghe nhạc, rất thư thả.
+或今天，或明天，他一定会来。 | Huò jīntiān, huò míngtiān, tā yídìng huì lái. | Hoặc hôm nay hoặc ngày mai, anh ấy nhất định sẽ đến.
+
+# 否则 | …，否则 …
+"Nếu không thì", giống 不然 nhưng trang trọng hơn.
+你得快一点儿，否则就赶不上火车了。 | Nǐ děi kuài yìdiǎnr, fǒuzé jiù gǎn bu shàng huǒchē le. | Bạn phải nhanh lên, nếu không sẽ lỡ tàu.
+学外语要多说，否则很难进步。 | Xué wàiyǔ yào duō shuō, fǒuzé hěn nán jìnbù. | Học ngoại ngữ phải nói nhiều, nếu không rất khó tiến bộ.
+
+## 6 | 18 | 一盒蛋糕
+
+# 本来 | 本来 + câu
+"Vốn dĩ, lúc đầu", thường tình hình sau đó đã khác. Cũng nói điều đương nhiên phải thế.
+我本来想去看电影，后来没去。 | Wǒ běnlái xiǎng qù kàn diànyǐng, hòulái méi qù. | Tôi vốn định đi xem phim, sau lại không đi.
+这本来就是你应该做的。 | Zhè běnlái jiù shì nǐ yīnggāi zuò de. | Đây vốn là việc bạn nên làm.
+
+# 渐渐 | 渐渐 (地) + động từ / tính từ
+"Dần dần".
+天气渐渐暖和起来了。 | Tiānqì jiànjiàn nuǎnhuo qǐlai le. | Thời tiết dần dần ấm lên.
+我渐渐习惯了这里的生活。 | Wǒ jiànjiàn xíguànle zhèlǐ de shēnghuó. | Tôi dần quen với cuộc sống ở đây.
+
+# 来不及 / 来得及 | 来不及 / 来得及 + động từ
+来不及 là không kịp, 来得及 là còn kịp.
+时间太紧，我来不及吃早饭了。 | Shíjiān tài jǐn, wǒ láibují chī zǎofàn le. | Thời gian gấp quá, tôi không kịp ăn sáng.
+现在去还来得及。 | Xiànzài qù hái láidejí. | Bây giờ đi vẫn còn kịp.
+
+# 特意 | 特意 + động từ
+"Đặc biệt, cố ý" làm việc gì vì một mục đích riêng.
+这是我特意为你做的菜。 | Zhè shì wǒ tèyì wèi nǐ zuò de cài. | Đây là món tôi đặc biệt nấu cho bạn.
+他特意从上海来看我。 | Tā tèyì cóng Shànghǎi lái kàn wǒ. | Anh ấy cất công từ Thượng Hải đến thăm tôi.
+
+# 可惜 | 可惜 + câu / 真可惜
+"Đáng tiếc".
+昨天的晚会很有意思，可惜你没来。 | Zuótiān de wǎnhuì hěn yǒu yìsi, kěxī nǐ méi lái. | Buổi tiệc hôm qua rất vui, tiếc là bạn không đến.
+这么好的机会错过了，真可惜。 | Zhème hǎo de jīhuì cuòguò le, zhēn kěxī. | Bỏ lỡ cơ hội tốt thế này, thật đáng tiếc.
+
+# 不忍 | 不忍 (心) + động từ
+"Không nỡ".
+看他睡得那么香，我不忍叫醒他。 | Kàn tā shuì de nàme xiāng, wǒ bùrěn jiào xǐng tā. | Thấy anh ấy ngủ ngon thế, tôi không nỡ đánh thức.
+妈妈不忍心让孩子一个人去。 | Māma bù rěnxīn ràng háizi yí ge rén qù. | Mẹ không nỡ để con đi một mình.
+
+# 好 | …，好 + động từ
+Nối mục đích ở vế sau: "để tiện, để có thể".
+你把地址告诉我，我好去找你。 | Nǐ bǎ dìzhǐ gàosu wǒ, wǒ hǎo qù zhǎo nǐ. | Bạn cho tôi địa chỉ để tôi tiện đến tìm bạn.
+早点儿睡吧，明天好早起。 | Zǎo diǎnr shuì ba, míngtiān hǎo zǎo qǐ. | Ngủ sớm đi để mai dậy sớm.
+
+# 所谓 | 所谓 + từ ngữ，就是 …
+"Cái gọi là", dùng khi giải thích một từ; cũng dùng với ý không thừa nhận.
+所谓“知音”，就是最了解自己的朋友。 | Suǒwèi “zhīyīn”, jiù shì zuì liǎojiě zìjǐ de péngyou. | Cái gọi là "tri âm" chính là người bạn hiểu mình nhất.
+他所谓的朋友，其实只是认识的人。 | Tā suǒwèi de péngyou, qíshí zhǐ shì rènshi de rén. | Cái anh ấy gọi là bạn, thật ra chỉ là người quen.
+
+# 所有 | 所有 (的) + danh từ + 都 …
+"Tất cả". Là tính từ nên phải đứng trước danh từ; 一切 là đại từ nên có thể đứng một mình.
+所有的同学都参加了这次活动。 | Suǒyǒu de tóngxué dōu cānjiāle zhè cì huódòng. | Tất cả các bạn đều tham gia hoạt động lần này.
+我把所有的钱都花完了。 | Wǒ bǎ suǒyǒu de qián dōu huā wán le. | Tôi đã tiêu hết tất cả tiền.
+
+## 6 | 19 | 无声的泪
+
+# 受 | 受 + (đến / bị) + danh từ / động từ
+"Chịu, nhận, được", mang ý bị động.
+这个电影很受年轻人欢迎。 | Zhège diànyǐng hěn shòu niánqīngrén huānyíng. | Bộ phim này rất được giới trẻ yêu thích.
+他从小受到了很好的教育。 | Tā cóng xiǎo shòudàole hěn hǎo de jiàoyù. | Từ nhỏ anh ấy đã nhận được sự giáo dục rất tốt.
+
+# 一 + lượng từ + 又 + 一 + lượng từ | 一次又一次 / 一个又一个
+Với lượng từ chỉ lần thì nghĩa là lặp đi lặp lại; với lượng từ chỉ vật thì nghĩa là rất nhiều, nối tiếp nhau.
+他一次又一次地失败，但是没有放弃。 | Tā yí cì yòu yí cì de shībài, dànshì méiyǒu fàngqì. | Anh ấy thất bại hết lần này đến lần khác nhưng không bỏ cuộc.
+一辆又一辆汽车从我身边开过。 | Yí liàng yòu yí liàng qìchē cóng wǒ shēnbiān kāiguò. | Hết chiếc xe này đến chiếc xe khác chạy qua bên tôi.
+
+# 不得不 | 不得不 + động từ
+"Đành phải, buộc phải". Không dùng trong câu phủ định.
+最后一班车已经开走了，我们不得不走回去。 | Zuìhòu yì bān chē yǐjīng kāi zǒu le, wǒmen bùdébù zǒu huíqu. | Chuyến xe cuối đã chạy mất, chúng tôi đành phải đi bộ về.
+因为生病，他不得不请假。 | Yīnwèi shēngbìng, tā bùdébù qǐngjià. | Vì bị ốm, anh ấy buộc phải xin nghỉ.
+
+# 使得 | Nguyên nhân + 使得 + người / vật + kết quả
+"Khiến cho", dùng trong văn viết.
+连续几天的大雨使得河水涨了很多。 | Liánxù jǐ tiān de dà yǔ shǐde héshuǐ zhǎngle hěn duō. | Mưa to liên tiếp mấy ngày khiến nước sông dâng lên nhiều.
+他的话使得大家都很感动。 | Tā de huà shǐde dàjiā dōu hěn gǎndòng. | Lời anh ấy nói khiến mọi người đều rất cảm động.
+
+# 怪不得 | 怪不得 + câu
+"Thảo nào, hèn chi", khi đã hiểu ra nguyên nhân.
+他在中国住过五年，怪不得汉语说得这么好。 | Tā zài Zhōngguó zhùguo wǔ nián, guàibude Hànyǔ shuō de zhème hǎo. | Anh ấy từng sống ở Trung Quốc năm năm, thảo nào nói tiếng Trung giỏi thế.
+怪不得这么冷，原来下雪了。 | Guàibude zhème lěng, yuánlái xià xuě le. | Hèn chi lạnh thế, hóa ra tuyết rơi rồi.
+
+# 趁 | 趁 + thời cơ + động từ
+"Nhân lúc, tranh thủ".
+趁年轻，应该多学一点儿东西。 | Chèn niánqīng, yīnggāi duō xué yìdiǎnr dōngxi. | Nhân lúc còn trẻ, nên học thêm nhiều thứ.
+饺子要趁热吃。 | Jiǎozi yào chèn rè chī. | Sủi cảo phải ăn lúc còn nóng.
+
+## 6 | 20 | 什么最重要
+
+# 凭 | 凭 + căn cứ + động từ
+"Dựa vào, căn cứ vào".
+凭学生证可以买半价票。 | Píng xuéshēngzhèng kěyǐ mǎi bànjià piào. | Dựa vào thẻ sinh viên có thể mua vé nửa giá.
+你凭什么这么说？ | Nǐ píng shénme zhème shuō? | Bạn dựa vào đâu mà nói thế?
+
+# 何必 | 何必 + động từ (呢)？
+"Việc gì phải", câu phản vấn cho rằng không cần thiết.
+都是朋友，何必这么客气呢？ | Dōu shì péngyou, hébì zhème kèqi ne? | Đều là bạn bè, việc gì phải khách sáo thế?
+走路只要五分钟，何必打车？ | Zǒulù zhǐ yào wǔ fēnzhōng, hébì dǎ chē? | Đi bộ chỉ mất năm phút, cần gì phải gọi xe?
+
+# 然而 | …，然而 …
+"Tuy nhiên", nghĩa giống 但是 nhưng dùng trong văn viết.
+他试了很多次，然而都没有成功。 | Tā shìle hěn duō cì, rán'ér dōu méiyǒu chénggōng. | Anh ấy thử rất nhiều lần, tuy nhiên đều không thành công.
+这个办法很简单，然而很有效。 | Zhège bànfǎ hěn jiǎndān, rán'ér hěn yǒuxiào. | Cách này rất đơn giản, tuy nhiên rất hiệu quả.
+
+# 从而 | …，从而 + kết quả
+"Từ đó, nhờ đó", vế trước là nguyên nhân hoặc cách làm, vế sau là kết quả. Dùng trong văn viết.
+他每天坚持锻炼，从而提高了身体素质。 | Tā měi tiān jiānchí duànliàn, cóng'ér tígāole shēntǐ sùzhì. | Anh ấy kiên trì tập luyện mỗi ngày, nhờ đó nâng cao thể lực.
+我们改进了方法，从而节约了很多时间。 | Wǒmen gǎijìnle fāngfǎ, cóng'ér jiéyuēle hěn duō shíjiān. | Chúng tôi cải tiến phương pháp, nhờ đó tiết kiệm được nhiều thời gian.
+
+# Động từ + 不起 / 得起 | Động từ + 不起 / 得起
+Nói có đủ tiền, đủ điều kiện để làm việc đó hay không.
+这么贵的房子，我买不起。 | Zhème guì de fángzi, wǒ mǎi bu qǐ. | Nhà đắt thế này tôi không mua nổi.
+这家饭店太贵了，我们吃不起。 | Zhè jiā fàndiàn tài guì le, wǒmen chī bu qǐ. | Nhà hàng này đắt quá, chúng tôi không đủ tiền ăn.
+
+# 假如 | 假如 + giả thiết，(就 / 那么) …
+"Giả sử, nếu", nghĩa giống 如果 nhưng dùng trong văn viết.
+假如明天下雨，运动会就改期。 | Jiǎrú míngtiān xià yǔ, yùndònghuì jiù gǎiqī. | Nếu ngày mai mưa thì hội thao sẽ đổi ngày.
+假如你是我，你会怎么做？ | Jiǎrú nǐ shì wǒ, nǐ huì zěnme zuò? | Giả sử bạn là tôi, bạn sẽ làm thế nào?
+
+# 尽情 | 尽情 (地) + động từ
+"Thỏa thích, hết mình".
+晚会上，大家尽情地唱歌跳舞。 | Wǎnhuì shang, dàjiā jìnqíng de chànggē tiàowǔ. | Trong buổi tiệc, mọi người thỏa thích ca hát nhảy múa.
+放假了，你们尽情地玩儿吧。 | Fàngjià le, nǐmen jìnqíng de wánr ba. | Nghỉ rồi, các bạn cứ chơi thỏa thích đi.
+
+## 6 | 21 | 理发
+
+# 免不了 | 免不了 + (要 / 会) + động từ
+"Không tránh khỏi".
+第一次上台，免不了会紧张。 | Dì yī cì shàng tái, miǎnbuliǎo huì jǐnzhāng. | Lần đầu lên sân khấu, không tránh khỏi hồi hộp.
+朋友之间免不了有误会。 | Péngyou zhījiān miǎnbuliǎo yǒu wùhuì. | Giữa bạn bè khó tránh khỏi có hiểu lầm.
+
+# 的确 | 的确 + tính từ / động từ
+"Đúng là, quả thực", khẳng định điều đó hoàn toàn đúng.
+这个地方的确很漂亮。 | Zhège dìfang díquè hěn piàoliang. | Nơi này quả thực rất đẹp.
+我的确不知道这件事。 | Wǒ díquè bù zhīdào zhè jiàn shì. | Tôi quả thực không biết chuyện này.
+
+# 当 (当做) | 把 + A + 当 (做) + B
+"Coi A là B".
+我一直把他当做最好的朋友。 | Wǒ yìzhí bǎ tā dàngzuò zuì hǎo de péngyou. | Tôi luôn coi anh ấy là người bạn tốt nhất.
+你就把这儿当自己的家吧。 | Nǐ jiù bǎ zhèr dàng zìjǐ de jiā ba. | Bạn cứ coi đây là nhà mình nhé.
+
+# 准 | 准 + (会 / 是) + động từ
+Làm phó từ nghĩa là "chắc chắn"; làm động từ nghĩa là "cho phép".
+这么晚了，他准是不来了。 | Zhème wǎn le, tā zhǔn shì bù lái le. | Muộn thế này rồi, chắc chắn anh ấy không đến nữa.
+医院里不准抽烟。 | Yīyuàn li bù zhǔn chōuyān. | Trong bệnh viện không được hút thuốc.
+
+# 难得 | 难得 + động từ / 很难得
+"Hiếm có, khó mà có được".
+我们难得见一次面，多聊一会儿吧。 | Wǒmen nándé jiàn yí cì miàn, duō liáo yíhuìr ba. | Chúng ta hiếm khi gặp nhau, nói chuyện thêm chút nữa đi.
+这样的机会很难得。 | Zhèyàng de jīhuì hěn nándé. | Cơ hội như thế này rất hiếm có.
+
+# 给 | 给 + động từ / 被 … 给 + động từ
+Trong khẩu ngữ, 给 đứng ngay trước động từ để nhấn mạnh, hay gặp trong câu 把 và câu 被.
+我的自行车被人给偷走了。 | Wǒ de zìxíngchē bèi rén gěi tōu zǒu le. | Xe đạp của tôi bị người ta lấy trộm mất rồi.
+我把这件事给忘了。 | Wǒ bǎ zhè jiàn shì gěi wàng le. | Tôi quên béng chuyện này rồi.
+
+# 多亏 | 多亏 + người / câu
+"May nhờ có", tỏ ý biết ơn vì nhờ đó mà tránh được chuyện xấu.
+多亏你帮忙，我才按时完成了任务。 | Duōkuī nǐ bāngmáng, wǒ cái ànshí wánchéngle rènwu. | May nhờ bạn giúp, tôi mới hoàn thành nhiệm vụ đúng hạn.
+多亏带了地图，不然我们就迷路了。 | Duōkuī dàile dìtú, bùrán wǒmen jiù mílù le. | May mà mang bản đồ, không thì chúng tôi lạc đường rồi.
+
+## 6 | 22 | 母亲的心
+
+# 逐渐 | 逐渐 + động từ / tính từ
+"Dần dần, từng bước", dùng nhiều trong văn viết.
+来中国以后，他的汉语水平逐渐提高了。 | Lái Zhōngguó yǐhòu, tā de Hànyǔ shuǐpíng zhújiàn tígāo le. | Sau khi đến Trung Quốc, trình độ tiếng Trung của anh ấy dần được nâng cao.
+天色逐渐暗了下来。 | Tiānsè zhújiàn ànle xiàlai. | Trời dần tối lại.
+
+# 决心 | 下决心 + động từ / 决心 + động từ
+"Quyết tâm". Vừa là danh từ vừa là động từ, không dùng làm trạng ngữ.
+他下决心要把汉语学好。 | Tā xià juéxīn yào bǎ Hànyǔ xué hǎo. | Anh ấy quyết tâm học tốt tiếng Trung.
+我决心从明天开始每天跑步。 | Wǒ juéxīn cóng míngtiān kāishǐ měi tiān pǎobù. | Tôi quyết tâm từ mai ngày nào cũng chạy bộ.
+
+# 了不起 | 真了不起 / 了不起的 + danh từ
+"Giỏi lắm, phi thường", dùng để khen.
+她一个人带大了三个孩子，真了不起。 | Tā yí ge rén dài dà le sān ge háizi, zhēn liǎobuqǐ. | Một mình cô ấy nuôi lớn ba đứa con, thật phi thường.
+这是一个了不起的发明。 | Zhè shì yí ge liǎobuqǐ de fāmíng. | Đây là một phát minh vĩ đại.
+
+# 不论…都 / 也… | 不论 + câu hỏi / lựa chọn，都 / 也 …
+"Bất luận ... đều ...". Giống 不管 nhưng trang trọng hơn.
+不论做什么工作，都要认真。 | Búlùn zuò shénme gōngzuò, dōu yào rènzhēn. | Bất luận làm công việc gì cũng phải nghiêm túc.
+不论刮风还是下雨，他都按时上班。 | Búlùn guā fēng háishi xià yǔ, tā dōu ànshí shàngbān. | Bất kể gió hay mưa, anh ấy đều đi làm đúng giờ.
+
+# 即使…也… | 即使 + giả thiết，也 …
+"Cho dù ... cũng ...". Vế trước là giả thiết, kết quả ở vế sau không thay đổi.
+即使明天下雨，我们也要去。 | Jíshǐ míngtiān xià yǔ, wǒmen yě yào qù. | Cho dù ngày mai mưa, chúng tôi cũng sẽ đi.
+即使失败了，也不要灰心。 | Jíshǐ shībài le, yě búyào huīxīn. | Cho dù thất bại cũng đừng nản lòng.
+
+## 6 | 23 | 网络学校
+
+# 有关 | 有关 + danh từ / 跟 … 有关
+"Có liên quan".
+我想找一些有关中国历史的书。 | Wǒ xiǎng zhǎo yìxiē yǒuguān Zhōngguó lìshǐ de shū. | Tôi muốn tìm vài quyển sách về lịch sử Trung Quốc.
+这件事跟他有关。 | Zhè jiàn shì gēn tā yǒuguān. | Việc này có liên quan đến anh ấy.
+
+# 而 (不是…而是…) | 不是 A，而是 B
+Một vế phủ định, một vế khẳng định, để đối chiếu hai mặt của một việc.
+我不是不想去，而是没有时间。 | Wǒ bú shì bù xiǎng qù, ér shì méiyǒu shíjiān. | Không phải tôi không muốn đi mà là không có thời gian.
+这里的冬天冷而不干。 | Zhèlǐ de dōngtiān lěng ér bù gān. | Mùa đông ở đây lạnh mà không khô.
+
+# 适合 | 适合 + người / vật / động từ
+"Hợp với". Là động từ nên mang được tân ngữ; 合适 là tính từ nên không mang tân ngữ.
+这件衣服很适合你。 | Zhè jiàn yīfu hěn shìhé nǐ. | Chiếc áo này rất hợp với bạn.
+这本书适合初学者看。 | Zhè běn shū shìhé chūxuézhě kàn. | Quyển sách này hợp cho người mới học.
+
+# 通过 | 通过 + phương tiện / cách thức，…
+"Thông qua, nhờ"; cũng là động từ nghĩa "vượt qua, được thông qua".
+通过这次旅行，我了解了很多中国文化。 | Tōngguò zhè cì lǚxíng, wǒ liǎojiěle hěn duō Zhōngguó wénhuà. | Qua chuyến đi này, tôi hiểu thêm nhiều về văn hóa Trung Quốc.
+他顺利通过了HSK五级考试。 | Tā shùnlì tōngguòle HSK wǔ jí kǎoshì. | Anh ấy đã thuận lợi vượt qua kỳ thi HSK cấp 5.
+
+# 为…而… | 为 + mục đích / nguyên nhân + 而 + động từ
+"Vì ... mà ...", dùng trong văn viết.
+我们都为他的成功而高兴。 | Wǒmen dōu wèi tā de chénggōng ér gāoxìng. | Chúng tôi đều vui mừng vì thành công của anh ấy.
+他为实现自己的理想而努力。 | Tā wèi shíxiàn zìjǐ de lǐxiǎng ér nǔlì. | Anh ấy cố gắng để thực hiện lý tưởng của mình.
+
+## 6 | 24 | 情商
+
+# 以及 | A、B 以及 C
+"Cũng như, và", nối các thành phần ngang hàng trong văn viết; phần quan trọng hơn thường đứng trước.
+学校有图书馆、体育馆以及游泳池。 | Xuéxiào yǒu túshūguǎn, tǐyùguǎn yǐjí yóuyǒngchí. | Trường có thư viện, nhà thể chất cũng như bể bơi.
+老师问了他的学习以及生活情况。 | Lǎoshī wènle tā de xuéxí yǐjí shēnghuó qíngkuàng. | Thầy giáo hỏi về việc học cũng như cuộc sống của cậu ấy.
+
+# 可见 | …，可见 …
+"Đủ thấy", từ điều nói ở trước rút ra kết luận.
+他每天学到很晚，可见他多么努力。 | Tā měi tiān xué dào hěn wǎn, kějiàn tā duōme nǔlì. | Ngày nào anh ấy cũng học đến khuya, đủ thấy anh ấy chăm chỉ thế nào.
+连他都不知道，可见这件事很少有人知道。 | Lián tā dōu bù zhīdào, kějiàn zhè jiàn shì hěn shǎo yǒu rén zhīdào. | Ngay cả anh ấy cũng không biết, đủ thấy chuyện này rất ít người biết.
+
+# 算 | 算 + (是) + danh từ / tính từ；算了
+"Coi là, được tính là". 算了 nghĩa là "thôi, bỏ đi". 就算 nghĩa là "cho dù".
+今天不算冷。 | Jīntiān bú suàn lěng. | Hôm nay không tính là lạnh.
+算了，别跟他生气了。 | Suàn le, bié gēn tā shēngqì le. | Thôi, đừng giận anh ấy nữa.
+
+# 是否 | 是否 + động từ
+"Có hay không", nghĩa giống 是不是 nhưng dùng trong văn viết.
+我不知道他是否同意。 | Wǒ bù zhīdào tā shìfǒu tóngyì. | Tôi không biết anh ấy có đồng ý hay không.
+请问您是否需要帮助？ | Qǐngwèn nín shìfǒu xūyào bāngzhù? | Xin hỏi ông có cần giúp đỡ không?
+
+# 不妨 | 不妨 + động từ
+"Cứ thử xem, không ngại gì", dùng để gợi ý nhẹ nhàng.
+你不妨试试这个办法。 | Nǐ bùfáng shìshi zhège bànfǎ. | Bạn cứ thử cách này xem.
+有什么意见，不妨直接说出来。 | Yǒu shénme yìjiàn, bùfáng zhíjiē shuō chūlai. | Có ý kiến gì cứ nói thẳng ra.
+
+# 往往 | 往往 + động từ
+"Thường thường", tổng kết điều hay xảy ra trong những điều kiện nhất định. Không dùng cho việc tương lai; 常常 thì dùng được.
+周末他往往睡到中午才起床。 | Zhōumò tā wǎngwǎng shuì dào zhōngwǔ cái qǐchuáng. | Cuối tuần anh ấy thường ngủ đến trưa mới dậy.
+紧张的时候往往容易出错。 | Jǐnzhāng de shíhou wǎngwǎng róngyì chū cuò. | Lúc căng thẳng thường dễ mắc lỗi.
+
+## 6 | 25 | 你喜欢什么颜色
+
+# 证明 | 证明 + câu / danh từ
+"Chứng minh"; cũng là danh từ nghĩa "giấy chứng nhận".
+事实证明他是对的。 | Shìshí zhèngmíng tā shì duì de. | Sự thật chứng minh anh ấy đúng.
+请假需要医院的证明。 | Qǐngjià xūyào yīyuàn de zhèngmíng. | Xin nghỉ cần giấy chứng nhận của bệnh viện.
+
+# 象征 | A 象征 (着) B / A 是 B 的象征
+"Tượng trưng cho".
+在中国，红色象征着幸福和吉祥。 | Zài Zhōngguó, hóngsè xiàngzhēngzhe xìngfú hé jíxiáng. | Ở Trung Quốc, màu đỏ tượng trưng cho hạnh phúc và may mắn.
+鸽子是和平的象征。 | Gēzi shì hépíng de xiàngzhēng. | Chim bồ câu là biểu tượng của hòa bình.
+
+# 无疑 | 无疑 + (是) …
+"Không nghi ngờ gì", dùng trong văn viết.
+这无疑是一个好消息。 | Zhè wúyí shì yí ge hǎo xiāoxi. | Đây chắc chắn là một tin tốt.
+多听多说无疑对学外语很有帮助。 | Duō tīng duō shuō wúyí duì xué wàiyǔ hěn yǒu bāngzhù. | Nghe nhiều nói nhiều rõ ràng rất có ích cho việc học ngoại ngữ.
+
+# 偏 (偏偏) | 偏 + 要 / 不 + động từ；偏偏 + câu
+偏 là cố tình làm ngược lại. 偏偏 còn nói sự thật trái với mong muốn: "lại đúng lúc".
+不让他去，他偏要去。 | Bú ràng tā qù, tā piān yào qù. | Không cho đi mà anh ấy cứ nhất định đi.
+我正要出门，偏偏下起雨来了。 | Wǒ zhèng yào chūmén, piānpiān xià qǐ yǔ lái le. | Tôi vừa định ra ngoài thì trời lại đổ mưa.
+
+# 反正 | 反正 + câu
+"Dù sao thì", kết luận không thay đổi trong mọi trường hợp. Thường đi sau 不管, 无论.
+不管你怎么说，反正我不相信。 | Bùguǎn nǐ zěnme shuō, fǎnzhèng wǒ bù xiāngxìn. | Dù bạn nói thế nào thì tôi cũng không tin.
+反正今天没事，我们去逛逛吧。 | Fǎnzhèng jīntiān méi shì, wǒmen qù guàngguang ba. | Dù sao hôm nay cũng rảnh, chúng ta đi dạo đi.
+
+## 6 | 26 | 梁山伯与祝英台
+
+# 由于 | 由于 + nguyên nhân，(因此 / 所以) …
+"Do, bởi vì". Trang trọng hơn 因为, luôn đứng ở vế trước và có thể đi với 因此.
+由于天气不好，飞机晚点了。 | Yóuyú tiānqì bù hǎo, fēijī wǎndiǎn le. | Do thời tiết xấu, máy bay bị trễ.
+由于他工作努力，因此很快就升职了。 | Yóuyú tā gōngzuò nǔlì, yīncǐ hěn kuài jiù shēngzhí le. | Do làm việc chăm chỉ nên anh ấy nhanh chóng được thăng chức.
+
+# 不然 | …，不然 …
+"Nếu không thì", nêu kết quả sẽ xảy ra nếu không làm như vế trước.
+快走吧，不然要迟到了。 | Kuài zǒu ba, bùrán yào chídào le. | Đi nhanh lên, không thì muộn mất.
+你得多穿点儿，不然会感冒的。 | Nǐ děi duō chuān diǎnr, bùrán huì gǎnmào de. | Bạn phải mặc thêm áo, không thì sẽ bị cảm.
+
+# 宁可…也… | 宁可 + A，也不 / 也要 + B
+"Thà ... chứ không ...", chọn một cách sau khi cân nhắc được mất. Cũng nói 宁肯, 宁愿.
+我宁可走路去，也不坐他的车。 | Wǒ nìngkě zǒulù qù, yě bú zuò tā de chē. | Tôi thà đi bộ chứ không ngồi xe của anh ấy.
+他宁可不睡觉，也要把工作做完。 | Tā nìngkě bú shuìjiào, yě yào bǎ gōngzuò zuò wán. | Anh ấy thà không ngủ cũng phải làm xong việc.
+
+# 如此 | 如此 + tính từ / 也是如此
+"Như thế, như vậy", dùng trong văn viết thay cho 这样, 这么.
+没想到这里的风景如此美丽。 | Méi xiǎngdào zhèlǐ de fēngjǐng rúcǐ měilì. | Không ngờ phong cảnh ở đây đẹp đến thế.
+他是这样想的，我也是如此。 | Tā shì zhèyàng xiǎng de, wǒ yě shì rúcǐ. | Anh ấy nghĩ như vậy, tôi cũng thế.
+
+# 始终 | 始终 + động từ / tính từ
+"Từ đầu đến cuối, luôn luôn". Thường có thể thay bằng 一直, nhưng 始终 không dùng cho tương lai.
+他始终没有忘记自己的理想。 | Tā shǐzhōng méiyǒu wàngjì zìjǐ de lǐxiǎng. | Anh ấy chưa bao giờ quên lý tưởng của mình.
+比赛中，她始终保持第一名。 | Bǐsài zhōng, tā shǐzhōng bǎochí dì yī míng. | Trong cuộc thi, cô ấy luôn giữ vị trí thứ nhất.
