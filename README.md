@@ -9,6 +9,8 @@ Web học tiếng Trung theo HSK 3.0 và HSK 2.0, chạy trên máy tính và đ
 - Trang chi tiết từ: pinyin, nghĩa, cấp HSK, nghe phát âm, câu ví dụ, thứ tự nét có hoạt hình và tập viết.
 - Chấm điểm phát âm bằng micro (cần Chrome, Edge hoặc Safari và có mạng).
 - Luyện tập: luyện nghe chọn đáp án và luyện phát âm theo cấp HSK hoặc theo flashcard của bạn.
+- Mục "Học": 24 điểm ngữ pháp sơ cấp, 40 câu khẩu ngữ, 59 câu giao tiếp hàng ngày theo chủ đề, đều tự soạn, có pinyin, nghĩa Việt và nút nghe.
+- Học qua bài hát: dán lời bài hát của bạn (kể cả dạng .lrc có mốc thời gian), web tự thêm pinyin, tra nghĩa từng từ và chạy chữ karaoke. Lời chỉ lưu trên máy bạn.
 - Lộ trình HSK 3.0 (cấp 1 đến 7-9) và HSK 2.0 (cấp 1 đến 6) với tiến độ học.
 - Nhiều bộ thẻ có tên riêng: thêm, sửa, xóa từ, xuất TXT và Excel, ôn tập lặp lại ngắt quãng (thuật toán FSRS), lưu trên trình duyệt.
 - Âm Hán Việt cho từng từ, khớp theo pinyin.
@@ -27,7 +29,7 @@ npm run build      # tạo bản web tĩnh trong thư mục out/
 
 ## Dữ liệu
 
-`npm run build-data` tạo lại các tệp trong `public/data` và `public/hanzi` từ nguồn mở. Nghĩa ngắn viết tay nằm trong `data/vi-*.tsv` (cột: từ, nghĩa, pinyin sửa lại nếu cần), câu ví dụ nằm trong `data/examples.tsv` (cột: câu, pinyin, nghĩa tiếng Việt). Sửa hoặc thêm rồi chạy lại lệnh trên.
+`npm run build-data` tạo lại các tệp trong `public/data` và `public/hanzi` từ nguồn mở. Nghĩa ngắn viết tay nằm trong `data/vi-*.tsv` (cột: từ, nghĩa, pinyin sửa lại nếu cần), câu ví dụ nằm trong `data/examples.tsv` (cột: câu, pinyin, nghĩa tiếng Việt), ngữ pháp trong `data/grammar.txt`, khẩu ngữ và câu giao tiếp trong `data/phrases.tsv`. Sửa hoặc thêm rồi chạy lại lệnh trên.
 
 ## Nguồn và giấy phép dữ liệu
 

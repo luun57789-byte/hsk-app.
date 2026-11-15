@@ -1,0 +1,119 @@
+# Câu với 是 | A + 是 + B
+Dùng 是 để nói "A là B". Phủ định thêm 不 trước 是. Không dùng 是 trước tính từ.
+我是越南人。 | Wǒ shì Yuènán rén. | Tôi là người Việt Nam.
+他不是老师。 | Tā bú shì lǎoshī. | Anh ấy không phải là giáo viên.
+
+# Câu hỏi với 吗 | Câu trần thuật + 吗？
+Thêm 吗 vào cuối câu để biến câu kể thành câu hỏi có/không. Trật tự từ giữ nguyên.
+你是学生吗？ | Nǐ shì xuésheng ma? | Bạn là học sinh phải không?
+你喜欢喝茶吗？ | Nǐ xǐhuan hē chá ma? | Bạn có thích uống trà không?
+
+# Phủ định với 不 và 没 | 不 + động từ / 没(有) + động từ
+不 phủ định thói quen, ý muốn, hiện tại và tương lai. 没 phủ định việc đã qua hoặc phủ định 有.
+我不吃肉。 | Wǒ bù chī ròu. | Tôi không ăn thịt.
+我昨天没去学校。 | Wǒ zuótiān méi qù xuéxiào. | Hôm qua tôi không đến trường.
+
+# Trợ từ 的 | Người sở hữu + 的 + vật / Tính từ + 的 + danh từ
+的 nối định ngữ với danh từ, giống "của" nhưng trật tự ngược tiếng Việt. Với người thân có thể bỏ 的.
+这是我的手机。 | Zhè shì wǒ de shǒujī. | Đây là điện thoại của tôi.
+她是我妈妈。 | Tā shì wǒ māma. | Bà ấy là mẹ tôi.
+
+# Tính từ làm vị ngữ với 很 | Chủ ngữ + 很 + tính từ
+Tính từ đứng ngay sau chủ ngữ, không cần 是. 很 thường chỉ để câu trọn vẹn chứ không nhấn mạnh "rất".
+今天很冷。 | Jīntiān hěn lěng. | Hôm nay lạnh.
+这个菜很好吃。 | Zhège cài hěn hǎochī. | Món này ngon.
+
+# Câu với 有 | Chủ ngữ + 有 / 没有 + tân ngữ
+有 nghĩa là "có". Phủ định luôn dùng 没有, không dùng 不有.
+我有两个哥哥。 | Wǒ yǒu liǎng ge gēge. | Tôi có hai anh trai.
+他没有时间。 | Tā méiyǒu shíjiān. | Anh ấy không có thời gian.
+
+# 在 chỉ nơi chốn | Chủ ngữ + 在 + nơi chốn (+ động từ)
+在 nghĩa là "ở". Cụm nơi chốn đứng trước động từ, ngược với tiếng Việt.
+我在家。 | Wǒ zài jiā. | Tôi ở nhà.
+她在医院工作。 | Tā zài yīyuàn gōngzuò. | Cô ấy làm việc ở bệnh viện.
+
+# Đang làm gì với 在 / 正在 | Chủ ngữ + (正)在 + động từ (+ 呢)
+Diễn tả hành động đang xảy ra. Có thể thêm 呢 ở cuối câu.
+我在看书。 | Wǒ zài kàn shū. | Tôi đang đọc sách.
+他正在打电话呢。 | Tā zhèngzài dǎ diànhuà ne. | Anh ấy đang gọi điện thoại.
+
+# Lượng từ | Số + lượng từ + danh từ
+Giữa số (hoặc 这, 那, 几) và danh từ phải có lượng từ. 个 dùng chung, 本 cho sách, 杯 cho cốc, 张 cho vật phẳng.
+三个人 | sān ge rén | ba người
+我买了两本书。 | Wǒ mǎi le liǎng běn shū. | Tôi đã mua hai quyển sách.
+
+# 二 và 两 | 两 + lượng từ
+Đếm số lượng "hai cái gì đó" thì dùng 两. 二 dùng khi đọc số, số thứ tự, ngày tháng.
+两个朋友 | liǎng ge péngyou | hai người bạn
+今天是二月二号。 | Jīntiān shì èr yuè èr hào. | Hôm nay là ngày 2 tháng 2.
+
+# Đại từ nghi vấn | 什么 / 谁 / 哪儿 / 几 / 多少 / 怎么
+Từ để hỏi đứng đúng vị trí của câu trả lời, không đảo lên đầu câu và không thêm 吗.
+你叫什么名字？ | Nǐ jiào shénme míngzi? | Bạn tên là gì?
+你去哪儿？ | Nǐ qù nǎr? | Bạn đi đâu?
+
+# Thời gian đứng trước động từ | Chủ ngữ + thời gian + động từ
+Từ chỉ thời gian đứng sau chủ ngữ (hoặc đầu câu), không đứng cuối câu như tiếng Việt.
+我明天去北京。 | Wǒ míngtiān qù Běijīng. | Ngày mai tôi đi Bắc Kinh.
+我们八点上课。 | Wǒmen bā diǎn shàngkè. | Chúng tôi vào học lúc tám giờ.
+
+# 了 chỉ việc đã xảy ra | Động từ + 了 (+ tân ngữ)
+了 sau động từ cho biết hành động đã hoàn thành. Phủ định dùng 没 và bỏ 了.
+我吃了早饭。 | Wǒ chī le zǎofàn. | Tôi đã ăn sáng rồi.
+我没买票。 | Wǒ méi mǎi piào. | Tôi chưa mua vé.
+
+# 了 chỉ sự thay đổi | Câu + 了
+了 ở cuối câu cho biết tình hình đã thay đổi, có điều gì mới.
+下雨了。 | Xià yǔ le. | Mưa rồi.
+我饿了。 | Wǒ è le. | Tôi đói rồi.
+
+# Đã từng với 过 | Động từ + 过
+Diễn tả kinh nghiệm đã từng làm. Phủ định là 没 + động từ + 过.
+我去过中国。 | Wǒ qù guo Zhōngguó. | Tôi đã từng đi Trung Quốc.
+我没吃过这个菜。 | Wǒ méi chī guo zhège cài. | Tôi chưa từng ăn món này.
+
+# 想 và 要 | 想 / 要 + động từ
+想 là muốn (mong muốn nhẹ nhàng). 要 là muốn, cần hoặc sẽ (quyết tâm hơn). Phủ định của cả hai thường là 不想.
+我想去中国旅游。 | Wǒ xiǎng qù Zhōngguó lǚyóu. | Tôi muốn đi du lịch Trung Quốc.
+我要一杯咖啡。 | Wǒ yào yì bēi kāfēi. | Tôi lấy một cốc cà phê.
+
+# 会, 能, 可以 | 会 / 能 / 可以 + động từ
+会: biết làm nhờ học. 能: có khả năng, có điều kiện. 可以: được phép.
+我会说汉语。 | Wǒ huì shuō Hànyǔ. | Tôi biết nói tiếng Trung.
+这儿可以拍照吗？ | Zhèr kěyǐ pāizhào ma? | Ở đây chụp ảnh được không?
+
+# So sánh với 比 | A + 比 + B + tính từ
+"A hơn B". Không thêm 很 trước tính từ. Phủ định: A 没有 B + tính từ.
+他比我高。 | Tā bǐ wǒ gāo. | Anh ấy cao hơn tôi.
+今天没有昨天冷。 | Jīntiān méiyǒu zuótiān lěng. | Hôm nay không lạnh bằng hôm qua.
+
+# 也 và 都 | Chủ ngữ + 也 / 都 + động từ
+也 là "cũng", 都 là "đều". Cả hai đứng sau chủ ngữ, trước động từ. Dùng chung thì 也 đứng trước 都.
+我也是学生。 | Wǒ yě shì xuésheng. | Tôi cũng là học sinh.
+我们也都喜欢唱歌。 | Wǒmen yě dōu xǐhuan chànggē. | Chúng tôi cũng đều thích hát.
+
+# Câu hỏi chính phản | Động từ + 不 + động từ
+Lặp lại động từ hoặc tính từ với 不 ở giữa để hỏi có/không. Không thêm 吗.
+你去不去？ | Nǐ qù bu qù? | Bạn có đi không?
+这个贵不贵？ | Zhège guì bu guì? | Cái này có đắt không?
+
+# Hỏi lựa chọn với 还是 | A + 还是 + B？
+还是 nghĩa là "hay là" trong câu hỏi. Trong câu kể dùng 或者.
+你喝茶还是喝咖啡？ | Nǐ hē chá háishi hē kāfēi? | Bạn uống trà hay cà phê?
+我星期六或者星期天去。 | Wǒ xīngqīliù huòzhě xīngqītiān qù. | Tôi đi thứ bảy hoặc chủ nhật.
+
+# Bổ ngữ trạng thái với 得 | Động từ + 得 + tính từ
+Đánh giá hành động được làm như thế nào. Nếu có tân ngữ thì lặp lại động từ.
+他跑得很快。 | Tā pǎo de hěn kuài. | Anh ấy chạy rất nhanh.
+她说汉语说得很好。 | Tā shuō Hànyǔ shuō de hěn hǎo. | Cô ấy nói tiếng Trung rất giỏi.
+
+# 因为…所以… | 因为 + nguyên nhân，所以 + kết quả
+"Bởi vì... cho nên...". Có thể chỉ dùng một trong hai từ.
+因为下雨，所以我没去。 | Yīnwèi xià yǔ, suǒyǐ wǒ méi qù. | Vì trời mưa nên tôi không đi.
+我很累，所以想休息。 | Wǒ hěn lèi, suǒyǐ xiǎng xiūxi. | Tôi rất mệt nên muốn nghỉ.
+
+# Câu chữ 把 | Chủ ngữ + 把 + tân ngữ + động từ + thành phần khác
+Đưa tân ngữ lên trước động từ để nhấn mạnh việc xử lý vật đó. Sau động từ phải có thêm thành phần (了, bổ ngữ...).
+请把门关上。 | Qǐng bǎ mén guānshàng. | Xin hãy đóng cửa lại.
+我把作业做完了。 | Wǒ bǎ zuòyè zuò wán le. | Tôi làm xong bài tập rồi.
