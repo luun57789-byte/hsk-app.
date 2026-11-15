@@ -50,10 +50,10 @@ export default function Learn() {
       {data && tab === "grammar" && (
         <>
           <p className="muted">
-            Sắp xếp theo thứ tự từng bài của bộ Giáo trình Hán ngữ 6 quyển (汉语教程). Bài 1 đến 9 của quyển 1 là ngữ âm nên không có điểm ngữ pháp. Phần giải thích và ví dụ do app tự biên soạn.
+            Sắp xếp theo thứ tự từng bài của bộ Giáo trình Hán ngữ 6 quyển (汉语教程). Bài 1 đến 9 của quyển 1 là ngữ âm nên không có điểm ngữ pháp; quyển 5 và 6 là phần cách dùng từ. Phần giải thích và ví dụ do app tự biên soạn.
           </p>
           <div className="levels" style={{ marginBottom: 12 }}>
-            {[1, 2, 3, 4].map((b) => (
+            {[1, 2, 3, 4, 5, 6].map((b) => (
               <button key={b} className={book === b ? "on" : ""} onClick={() => setBook(b)}>Quyển {b}</button>
             ))}
           </div>
